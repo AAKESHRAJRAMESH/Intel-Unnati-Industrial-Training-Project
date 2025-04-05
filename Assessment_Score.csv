@@ -1,0 +1,1001 @@
+Age,Gender,Parent Occupation,Earning Class,Level of Student,Level of Course,Course Name,Time per Day (hrs),Material Level,IQ,Consistency,Health,Assessment Score,Health Description,Consistency_Num,Material_Level_Num,Student_Level_Num,Course_Level_Num
+7,Male,Government Employee,High,Beginner,Intermediate,Biology,2.3,Intermediate,121,Irregular,1,62,Very Poor,0,2,1,2
+14,Female,Business Owner,Low,Advanced,Advanced,Math,5.5,Intermediate,78,Regular,3,79,Average,1,2,3,3
+7,Male,Engineer,Middle,Beginner,Beginner,Physics,1.6,Beginner,117,Regular,4,62,Good,1,1,1,1
+18,Female,Business Owner,High,Advanced,Intermediate,Biology,1.2,Intermediate,86,Regular,3,70,Average,1,2,3,2
+18,Female,Teacher,Low,Advanced,Advanced,Science,4.5,Intermediate,76,Irregular,1,49,Very Poor,0,2,3,3
+15,Male,Farmer,High,Intermediate,Advanced,English,3.8,Advanced,113,Regular,1,65,Very Poor,1,3,2,3
+15,Female,Business Owner,High,Advanced,Intermediate,Art,3.7,Intermediate,75,Regular,1,42,Very Poor,1,2,3,2
+16,Male,Other,High,Advanced,Intermediate,Computer Science,3.2,Intermediate,107,Irregular,2,54,Poor,0,2,3,2
+5,Male,Unemployed,High,Beginner,Beginner,Math,0.3,Beginner,73,Irregular,4,52,Good,0,1,1,1
+8,Female,Unemployed,High,Beginner,Beginner,English,2.0,Intermediate,99,Irregular,3,73,Average,0,2,1,1
+18,Female,Other,Low,Intermediate,Intermediate,Geography,1.6,Beginner,78,Irregular,1,35,Very Poor,0,1,2,2
+8,Male,Other,Low,Beginner,Beginner,History,2.0,Beginner,103,Regular,4,69,Good,1,1,1,1
+12,Male,Business Owner,Low,Intermediate,Intermediate,English,2.9,Advanced,102,Regular,5,93,Excellent,1,3,2,2
+4,Female,Other,Middle,Beginner,Beginner,Biology,2.4,Intermediate,75,Irregular,2,44,Poor,0,2,1,1
+14,Female,Business Owner,High,Advanced,Advanced,English,1.1,Advanced,133,Irregular,2,68,Poor,0,3,3,3
+17,Male,Teacher,Middle,Advanced,Advanced,Geography,5.9,Advanced,134,Irregular,1,62,Very Poor,0,3,3,3
+16,Male,Other,Low,Intermediate,Intermediate,History,3.6,Intermediate,119,Irregular,2,53,Poor,0,2,2,2
+7,Female,Engineer,Middle,Beginner,Intermediate,Art,1.5,Advanced,80,Irregular,4,59,Good,0,3,1,2
+5,Female,Other,Low,Beginner,Beginner,Geography,2.1,Beginner,74,Irregular,3,55,Average,0,1,1,1
+7,Female,Unemployed,Middle,Beginner,Beginner,Art,2.3,Beginner,119,Regular,1,52,Very Poor,1,1,1,1
+15,Male,Teacher,Low,Advanced,Advanced,English,5.0,Advanced,75,Irregular,4,67,Good,0,3,3,3
+17,Female,Unemployed,Middle,Intermediate,Beginner,History,0.2,Beginner,123,Irregular,1,25,Very Poor,0,1,2,1
+12,Female,Business Owner,Middle,Intermediate,Intermediate,History,2.8,Beginner,112,Regular,5,80,Excellent,1,1,2,2
+10,Female,Artist,High,Intermediate,Intermediate,Science,0.1,Intermediate,130,Irregular,4,57,Good,0,2,2,2
+8,Male,Engineer,Middle,Beginner,Beginner,Physics,1.4,Beginner,103,Irregular,1,43,Very Poor,0,1,1,1
+4,Female,Engineer,High,Beginner,Beginner,English,0.4,Beginner,68,Irregular,2,40,Poor,0,1,1,1
+13,Female,Farmer,Middle,Beginner,Beginner,Math,2.6,Beginner,137,Regular,2,72,Poor,1,1,1,1
+5,Female,Artist,Low,Beginner,Beginner,Biology,2.5,Beginner,104,Irregular,5,78,Excellent,0,1,1,1
+5,Male,Other,Middle,Beginner,Beginner,Physics,1.4,Beginner,102,Irregular,1,39,Very Poor,0,1,1,1
+13,Female,Teacher,Low,Intermediate,Beginner,English,0.7,Beginner,121,Irregular,5,65,Excellent,0,1,2,1
+16,Female,Farmer,Middle,Intermediate,Intermediate,English,1.3,Intermediate,90,Irregular,5,59,Excellent,0,2,2,2
+11,Male,Business Owner,High,Intermediate,Intermediate,Geography,2.9,Advanced,102,Regular,1,53,Very Poor,1,3,2,2
+14,Female,Artist,High,Intermediate,Intermediate,Physics,3.5,Intermediate,128,Regular,1,56,Very Poor,1,2,2,2
+4,Female,Unemployed,High,Beginner,Beginner,Science,1.4,Beginner,112,Regular,4,76,Good,1,1,1,1
+6,Male,Engineer,High,Beginner,Intermediate,Chemistry,1.9,Advanced,114,Irregular,1,57,Very Poor,0,3,1,2
+16,Female,Artist,High,Advanced,Advanced,Science,5.4,Intermediate,115,Regular,5,97,Excellent,1,2,3,3
+17,Male,Artist,High,Intermediate,Intermediate,Art,4.0,Intermediate,93,Irregular,2,57,Poor,0,2,2,2
+3,Female,Artist,Middle,Beginner,Beginner,Art,2.8,Intermediate,111,Regular,5,80,Excellent,1,2,1,1
+10,Male,Other,High,Intermediate,Intermediate,History,3.1,Beginner,102,Regular,2,73,Poor,1,1,2,2
+5,Male,Other,High,Beginner,Beginner,English,0.6,Beginner,106,Regular,2,59,Poor,1,1,1,1
+17,Female,Teacher,High,Advanced,Advanced,Art,4.1,Advanced,119,Irregular,5,99,Excellent,0,3,3,3
+7,Female,Teacher,Middle,Beginner,Beginner,Math,0.9,Intermediate,90,Regular,3,62,Average,1,2,1,1
+9,Female,Engineer,Middle,Intermediate,Intermediate,Geography,2.3,Beginner,108,Irregular,3,69,Average,0,1,2,2
+18,Female,Engineer,High,Intermediate,Intermediate,Science,2.9,Beginner,122,Regular,1,53,Very Poor,1,1,2,2
+18,Male,Teacher,High,Advanced,Advanced,Science,2.2,Advanced,82,Irregular,1,56,Very Poor,0,3,3,3
+12,Female,Teacher,Low,Intermediate,Advanced,English,3.1,Intermediate,110,Regular,2,70,Poor,1,2,2,3
+5,Male,Business Owner,High,Beginner,Beginner,Math,1.4,Intermediate,80,Regular,3,40,Average,1,2,1,1
+13,Male,Doctor,High,Intermediate,Intermediate,Geography,0.8,Intermediate,104,Irregular,4,63,Good,0,2,2,2
+14,Male,Government Employee,High,Intermediate,Intermediate,Computer Science,2.6,Intermediate,103,Irregular,4,63,Good,0,2,2,2
+11,Male,Unemployed,Low,Beginner,Beginner,English,2.2,Intermediate,112,Regular,3,66,Average,1,2,1,1
+8,Male,Engineer,High,Intermediate,Advanced,Biology,4.2,Intermediate,75,Regular,5,75,Excellent,1,2,2,3
+13,Female,Farmer,High,Beginner,Intermediate,Geography,2.3,Intermediate,86,Regular,1,56,Very Poor,1,2,1,2
+4,Male,Teacher,Low,Beginner,Beginner,History,2.4,Intermediate,92,Regular,2,48,Poor,1,2,1,1
+18,Female,Unemployed,High,Advanced,Advanced,Science,3.3,Advanced,78,Regular,2,55,Poor,1,3,3,3
+8,Male,Other,Middle,Intermediate,Intermediate,Art,1.8,Intermediate,99,Irregular,2,47,Poor,0,2,2,2
+17,Female,Doctor,High,Intermediate,Intermediate,Geography,3.0,Intermediate,78,Regular,1,60,Very Poor,1,2,2,2
+4,Male,Unemployed,Low,Beginner,Beginner,Physics,2.1,Beginner,108,Regular,5,77,Excellent,1,1,1,1
+6,Male,Government Employee,High,Beginner,Beginner,Physics,2.1,Beginner,91,Regular,1,38,Very Poor,1,1,1,1
+11,Male,Doctor,Low,Beginner,Beginner,Art,2.4,Intermediate,82,Regular,4,58,Good,1,2,1,1
+13,Female,Engineer,Low,Intermediate,Beginner,Physics,0.8,Beginner,81,Irregular,1,29,Very Poor,0,1,2,1
+15,Male,Other,High,Advanced,Advanced,Art,2.1,Advanced,76,Irregular,5,68,Excellent,0,3,3,3
+13,Male,Business Owner,Middle,Beginner,Beginner,Science,0.1,Beginner,133,Irregular,1,43,Very Poor,0,1,1,1
+16,Male,Engineer,High,Advanced,Advanced,Geography,2.2,Intermediate,135,Regular,1,76,Very Poor,1,2,3,3
+6,Male,Artist,Middle,Beginner,Beginner,Computer Science,1.6,Beginner,118,Irregular,4,73,Good,0,1,1,1
+8,Male,Farmer,High,Beginner,Beginner,Computer Science,1.0,Beginner,118,Irregular,5,73,Excellent,0,1,1,1
+16,Male,Doctor,Middle,Intermediate,Intermediate,History,2.6,Beginner,136,Regular,5,89,Excellent,1,1,2,2
+3,Male,Engineer,Middle,Beginner,Beginner,Physics,2.9,Beginner,110,Regular,4,76,Good,1,1,1,1
+13,Female,Unemployed,High,Beginner,Beginner,Chemistry,2.2,Intermediate,105,Irregular,2,75,Poor,0,2,1,1
+8,Male,Engineer,High,Beginner,Beginner,Math,2.1,Beginner,89,Irregular,2,49,Poor,0,1,1,1
+3,Female,Farmer,High,Beginner,Beginner,Biology,1.1,Beginner,82,Irregular,4,59,Good,0,1,1,1
+9,Male,Doctor,Low,Beginner,Beginner,Geography,1.8,Beginner,135,Irregular,1,37,Very Poor,0,1,1,1
+3,Male,Teacher,Middle,Beginner,Beginner,Computer Science,2.0,Beginner,112,Irregular,1,56,Very Poor,0,1,1,1
+18,Female,Artist,High,Advanced,Intermediate,Computer Science,3.6,Beginner,102,Irregular,3,69,Average,0,1,3,2
+6,Male,Engineer,High,Beginner,Intermediate,Science,1.9,Beginner,100,Irregular,5,69,Excellent,0,1,1,2
+3,Female,Doctor,High,Beginner,Intermediate,History,0.9,Intermediate,107,Regular,3,66,Average,1,2,1,2
+17,Male,Engineer,Low,Intermediate,Advanced,History,1.1,Advanced,72,Regular,2,50,Poor,1,3,2,3
+18,Male,Government Employee,Low,Intermediate,Intermediate,Computer Science,2.2,Intermediate,116,Irregular,2,74,Poor,0,2,2,2
+18,Female,Farmer,Middle,Intermediate,Advanced,Science,4.3,Intermediate,81,Irregular,4,78,Good,0,2,2,3
+3,Female,Government Employee,High,Beginner,Beginner,Biology,1.2,Beginner,109,Irregular,5,76,Excellent,0,1,1,1
+12,Male,Artist,High,Beginner,Beginner,Chemistry,1.5,Beginner,98,Irregular,2,56,Poor,0,1,1,1
+11,Male,Artist,Middle,Intermediate,Intermediate,Science,4.4,Intermediate,115,Regular,2,72,Poor,1,2,2,2
+5,Male,Other,High,Beginner,Beginner,English,2.7,Beginner,82,Regular,1,46,Very Poor,1,1,1,1
+12,Male,Engineer,Middle,Intermediate,Intermediate,Physics,3.8,Advanced,105,Regular,1,50,Very Poor,1,3,2,2
+7,Female,Farmer,High,Beginner,Intermediate,History,1.5,Advanced,91,Regular,2,43,Poor,1,3,1,2
+18,Female,Farmer,High,Advanced,Advanced,Art,6.0,Advanced,127,Irregular,4,96,Good,0,3,3,3
+16,Female,Engineer,Middle,Advanced,Intermediate,Chemistry,1.5,Advanced,120,Irregular,4,73,Good,0,3,3,2
+13,Male,Business Owner,Low,Beginner,Beginner,Science,0.6,Beginner,67,Irregular,2,27,Poor,0,1,1,1
+4,Female,Business Owner,Middle,Beginner,Intermediate,Science,3.5,Beginner,78,Irregular,5,64,Excellent,0,1,1,2
+12,Male,Government Employee,Low,Intermediate,Intermediate,Physics,1.7,Intermediate,132,Irregular,4,91,Good,0,2,2,2
+11,Male,Doctor,Middle,Beginner,Beginner,Biology,1.2,Beginner,99,Regular,4,75,Good,1,1,1,1
+10,Male,Government Employee,High,Intermediate,Intermediate,Physics,1.3,Intermediate,72,Regular,4,66,Good,1,2,2,2
+12,Female,Farmer,Middle,Intermediate,Advanced,History,6.3,Advanced,114,Irregular,3,77,Average,0,3,2,3
+7,Male,Government Employee,High,Beginner,Beginner,Computer Science,2.0,Beginner,87,Irregular,5,64,Excellent,0,1,1,1
+18,Female,Business Owner,High,Advanced,Advanced,English,4.1,Advanced,89,Irregular,4,74,Good,0,3,3,3
+10,Male,Government Employee,Low,Beginner,Beginner,Physics,1.3,Beginner,135,Irregular,4,74,Good,0,1,1,1
+10,Female,Unemployed,Middle,Beginner,Beginner,Physics,1.7,Beginner,110,Regular,5,61,Excellent,1,1,1,1
+5,Male,Engineer,Middle,Beginner,Intermediate,English,2.1,Advanced,127,Regular,1,52,Very Poor,1,3,1,2
+6,Male,Farmer,High,Beginner,Beginner,Science,2.0,Beginner,125,Irregular,2,54,Poor,0,1,1,1
+15,Male,Government Employee,Low,Intermediate,Advanced,Chemistry,2.1,Advanced,101,Regular,2,66,Poor,1,3,2,3
+16,Female,Artist,High,Advanced,Intermediate,Art,3.7,Intermediate,128,Regular,5,100,Excellent,1,2,3,2
+13,Male,Engineer,Middle,Intermediate,Advanced,English,3.2,Advanced,116,Regular,5,100,Excellent,1,3,2,3
+16,Male,Doctor,High,Advanced,Advanced,Physics,4.1,Advanced,125,Regular,4,100,Good,1,3,3,3
+5,Male,Engineer,Low,Beginner,Beginner,Physics,0.7,Beginner,138,Regular,2,58,Poor,1,1,1,1
+7,Male,Artist,Low,Beginner,Intermediate,Science,2.4,Intermediate,123,Regular,5,92,Excellent,1,2,1,2
+6,Female,Artist,Low,Beginner,Beginner,Geography,1.9,Intermediate,118,Regular,2,46,Poor,1,2,1,1
+13,Female,Business Owner,Middle,Beginner,Beginner,Chemistry,2.1,Beginner,85,Regular,2,61,Poor,1,1,1,1
+9,Female,Farmer,Middle,Beginner,Beginner,Chemistry,1.8,Beginner,90,Regular,4,58,Good,1,1,1,1
+3,Male,Doctor,Middle,Beginner,Beginner,English,0.7,Beginner,103,Regular,1,40,Very Poor,1,1,1,1
+4,Male,Farmer,Low,Beginner,Intermediate,Computer Science,2.6,Advanced,95,Irregular,5,75,Excellent,0,3,1,2
+10,Male,Doctor,Low,Beginner,Beginner,Chemistry,0.9,Beginner,111,Regular,5,70,Excellent,1,1,1,1
+4,Female,Teacher,Low,Beginner,Beginner,Physics,1.4,Beginner,78,Irregular,2,32,Poor,0,1,1,1
+8,Female,Other,High,Intermediate,Beginner,Computer Science,1.2,Beginner,99,Regular,2,53,Poor,1,1,2,1
+11,Female,Farmer,Low,Intermediate,Advanced,Science,4.4,Advanced,117,Regular,2,91,Poor,1,3,2,3
+3,Male,Government Employee,Low,Beginner,Beginner,Computer Science,1.8,Beginner,113,Irregular,3,64,Average,0,1,1,1
+14,Female,Artist,Middle,Intermediate,Beginner,Art,1.4,Beginner,94,Irregular,3,61,Average,0,1,2,1
+11,Female,Government Employee,Low,Beginner,Beginner,English,0.2,Beginner,79,Regular,2,26,Poor,1,1,1,1
+4,Male,Government Employee,High,Beginner,Intermediate,Chemistry,3.0,Beginner,127,Regular,4,69,Good,1,1,1,2
+11,Female,Business Owner,High,Beginner,Beginner,Geography,0.5,Intermediate,103,Irregular,2,38,Poor,0,2,1,1
+13,Male,Government Employee,Low,Intermediate,Intermediate,Biology,2.3,Advanced,119,Irregular,1,61,Very Poor,0,3,2,2
+14,Female,Artist,Middle,Intermediate,Intermediate,Math,1.2,Intermediate,134,Regular,3,72,Average,1,2,2,2
+18,Male,Farmer,Low,Advanced,Intermediate,History,3.8,Advanced,74,Irregular,2,36,Poor,0,3,3,2
+9,Male,Engineer,Low,Beginner,Beginner,English,1.6,Beginner,92,Regular,3,54,Average,1,1,1,1
+16,Male,Other,High,Advanced,Advanced,History,1.6,Intermediate,68,Regular,2,65,Poor,1,2,3,3
+3,Male,Government Employee,Middle,Beginner,Beginner,English,2.0,Intermediate,114,Regular,4,65,Good,1,2,1,1
+8,Female,Other,High,Beginner,Beginner,Biology,0.1,Beginner,132,Irregular,1,36,Very Poor,0,1,1,1
+12,Female,Artist,High,Beginner,Beginner,History,1.1,Beginner,130,Irregular,3,55,Average,0,1,1,1
+10,Female,Unemployed,Low,Intermediate,Advanced,Computer Science,2.8,Advanced,69,Regular,4,75,Good,1,3,2,3
+15,Male,Business Owner,Low,Intermediate,Intermediate,English,4.5,Advanced,127,Irregular,1,66,Very Poor,0,3,2,2
+3,Male,Artist,Low,Beginner,Beginner,Physics,1.3,Beginner,76,Regular,3,45,Average,1,1,1,1
+9,Male,Teacher,Middle,Intermediate,Beginner,Physics,2.4,Beginner,86,Irregular,3,60,Average,0,1,2,1
+9,Male,Unemployed,High,Intermediate,Beginner,Computer Science,0.9,Beginner,101,Regular,1,35,Very Poor,1,1,2,1
+13,Male,Doctor,Middle,Beginner,Intermediate,Computer Science,2.2,Intermediate,120,Regular,5,81,Excellent,1,2,1,2
+7,Male,Unemployed,Low,Beginner,Beginner,Computer Science,3.1,Beginner,121,Irregular,5,84,Excellent,0,1,1,1
+16,Female,Unemployed,High,Intermediate,Advanced,History,3.1,Advanced,117,Regular,4,80,Good,1,3,2,3
+8,Female,Other,High,Beginner,Beginner,Physics,2.6,Intermediate,97,Irregular,2,43,Poor,0,2,1,1
+5,Female,Teacher,Middle,Beginner,Beginner,Science,0.1,Beginner,80,Irregular,4,61,Good,0,1,1,1
+18,Female,Teacher,Low,Advanced,Intermediate,English,4.0,Intermediate,84,Irregular,1,59,Very Poor,0,2,3,2
+18,Male,Other,Low,Advanced,Advanced,Chemistry,4.7,Advanced,80,Regular,4,77,Good,1,3,3,3
+10,Male,Other,Low,Intermediate,Intermediate,Chemistry,2.0,Beginner,96,Regular,4,78,Good,1,1,2,2
+18,Female,Doctor,Low,Advanced,Advanced,History,6.2,Advanced,74,Irregular,1,52,Very Poor,0,3,3,3
+6,Female,Farmer,Middle,Beginner,Beginner,Science,2.0,Beginner,122,Regular,1,47,Very Poor,1,1,1,1
+7,Male,Unemployed,Low,Beginner,Beginner,Physics,2.0,Beginner,110,Irregular,2,54,Poor,0,1,1,1
+11,Male,Business Owner,Low,Beginner,Beginner,Science,2.2,Beginner,106,Irregular,5,87,Excellent,0,1,1,1
+13,Male,Engineer,High,Beginner,Intermediate,English,3.1,Intermediate,90,Regular,5,75,Excellent,1,2,1,2
+7,Male,Engineer,High,Beginner,Beginner,Chemistry,1.6,Beginner,139,Irregular,3,68,Average,0,1,1,1
+7,Male,Business Owner,Low,Beginner,Beginner,Biology,1.5,Beginner,99,Regular,1,37,Very Poor,1,1,1,1
+5,Female,Business Owner,Middle,Beginner,Beginner,Geography,2.0,Beginner,115,Regular,5,80,Excellent,1,1,1,1
+14,Male,Farmer,Middle,Advanced,Advanced,Art,2.0,Advanced,80,Regular,5,81,Excellent,1,3,3,3
+5,Female,Other,Middle,Beginner,Beginner,History,1.3,Intermediate,83,Regular,4,58,Good,1,2,1,1
+3,Male,Unemployed,High,Beginner,Intermediate,English,3.8,Intermediate,100,Irregular,3,71,Average,0,2,1,2
+10,Female,Teacher,High,Beginner,Intermediate,Computer Science,2.2,Advanced,135,Irregular,4,81,Good,0,3,1,2
+12,Female,Artist,Middle,Intermediate,Intermediate,Physics,3.3,Beginner,100,Irregular,2,57,Poor,0,1,2,2
+4,Male,Government Employee,High,Beginner,Beginner,Physics,0.5,Beginner,72,Irregular,1,21,Very Poor,0,1,1,1
+7,Female,Other,High,Beginner,Beginner,Science,2.6,Beginner,101,Irregular,2,52,Poor,0,1,1,1
+7,Male,Business Owner,Low,Beginner,Beginner,Geography,2.5,Beginner,124,Regular,3,84,Average,1,1,1,1
+5,Female,Unemployed,Middle,Beginner,Intermediate,Art,3.1,Advanced,135,Irregular,3,75,Average,0,3,1,2
+10,Male,Engineer,High,Intermediate,Intermediate,History,1.0,Beginner,134,Irregular,2,72,Poor,0,1,2,2
+16,Male,Business Owner,Low,Intermediate,Beginner,Science,1.3,Intermediate,108,Irregular,5,64,Excellent,0,2,2,1
+5,Male,Engineer,Middle,Beginner,Beginner,Math,1.4,Beginner,82,Regular,3,64,Average,1,1,1,1
+10,Male,Teacher,Middle,Intermediate,Intermediate,Art,1.6,Intermediate,114,Regular,2,60,Poor,1,2,2,2
+12,Male,Artist,Middle,Beginner,Beginner,Art,1.7,Beginner,96,Irregular,5,60,Excellent,0,1,1,1
+14,Male,Farmer,Middle,Advanced,Intermediate,Biology,1.9,Beginner,122,Irregular,2,56,Poor,0,1,3,2
+3,Female,Engineer,Low,Beginner,Beginner,Geography,2.1,Beginner,87,Regular,3,54,Average,1,1,1,1
+8,Female,Doctor,Middle,Intermediate,Intermediate,Geography,1.3,Intermediate,94,Regular,2,41,Poor,1,2,2,2
+14,Male,Engineer,Low,Intermediate,Intermediate,Geography,3.3,Intermediate,107,Regular,5,92,Excellent,1,2,2,2
+16,Male,Business Owner,High,Intermediate,Intermediate,Physics,0.3,Beginner,93,Regular,1,31,Very Poor,1,1,2,2
+3,Female,Government Employee,Low,Beginner,Beginner,Science,1.1,Beginner,122,Regular,5,65,Excellent,1,1,1,1
+4,Male,Business Owner,Low,Beginner,Beginner,Geography,2.3,Intermediate,109,Irregular,2,47,Poor,0,2,1,1
+5,Female,Other,Middle,Beginner,Beginner,Biology,0.9,Intermediate,138,Irregular,2,56,Poor,0,2,1,1
+5,Male,Farmer,Middle,Beginner,Intermediate,Math,2.8,Advanced,67,Regular,3,56,Average,1,3,1,2
+7,Female,Other,High,Beginner,Intermediate,Computer Science,3.3,Intermediate,101,Irregular,2,65,Poor,0,2,1,2
+5,Female,Doctor,High,Beginner,Beginner,Chemistry,1.6,Beginner,97,Irregular,5,62,Excellent,0,1,1,1
+13,Female,Government Employee,High,Intermediate,Intermediate,Geography,2.7,Intermediate,100,Irregular,2,56,Poor,0,2,2,2
+17,Male,Doctor,Low,Intermediate,Intermediate,Chemistry,0.9,Intermediate,90,Irregular,5,68,Excellent,0,2,2,2
+3,Male,Farmer,Low,Beginner,Intermediate,Computer Science,2.4,Beginner,130,Irregular,5,84,Excellent,0,1,1,2
+10,Female,Farmer,Low,Beginner,Beginner,Science,2.4,Beginner,124,Regular,5,81,Excellent,1,1,1,1
+7,Female,Artist,Low,Beginner,Beginner,Geography,1.4,Intermediate,83,Irregular,1,21,Very Poor,0,2,1,1
+9,Female,Engineer,Middle,Beginner,Beginner,Art,2.1,Beginner,89,Regular,5,76,Excellent,1,1,1,1
+6,Male,Teacher,Low,Beginner,Beginner,Science,1.2,Beginner,123,Regular,1,37,Very Poor,1,1,1,1
+12,Male,Artist,Low,Intermediate,Intermediate,Science,3.5,Beginner,111,Irregular,1,45,Very Poor,0,1,2,2
+7,Male,Government Employee,High,Beginner,Beginner,Physics,1.2,Beginner,110,Regular,3,63,Average,1,1,1,1
+15,Female,Government Employee,High,Advanced,Intermediate,Geography,1.5,Advanced,133,Irregular,3,70,Average,0,3,3,2
+3,Female,Artist,Middle,Beginner,Beginner,Geography,3.5,Beginner,89,Regular,1,49,Very Poor,1,1,1,1
+17,Female,Unemployed,Low,Intermediate,Intermediate,Math,1.8,Beginner,85,Irregular,4,70,Good,0,1,2,2
+9,Male,Artist,High,Beginner,Beginner,Physics,1.7,Beginner,82,Irregular,3,54,Average,0,1,1,1
+10,Female,Farmer,Low,Beginner,Beginner,Computer Science,2.7,Beginner,81,Regular,2,52,Poor,1,1,1,1
+16,Male,Unemployed,Middle,Intermediate,Intermediate,Math,1.5,Intermediate,134,Irregular,4,62,Good,0,2,2,2
+15,Male,Doctor,Low,Advanced,Advanced,Math,3.0,Advanced,73,Regular,1,49,Very Poor,1,3,3,3
+8,Male,Doctor,Low,Beginner,Beginner,History,2.8,Intermediate,84,Regular,1,42,Very Poor,1,2,1,1
+5,Female,Business Owner,High,Beginner,Intermediate,History,1.3,Intermediate,79,Irregular,5,65,Excellent,0,2,1,2
+3,Male,Teacher,Middle,Beginner,Intermediate,History,0.7,Advanced,98,Regular,4,71,Good,1,3,1,2
+11,Female,Other,Middle,Intermediate,Intermediate,Art,2.7,Intermediate,130,Regular,5,86,Excellent,1,2,2,2
+17,Male,Doctor,High,Advanced,Advanced,Geography,1.4,Advanced,109,Irregular,1,45,Very Poor,0,3,3,3
+6,Female,Business Owner,Middle,Beginner,Intermediate,Art,3.0,Intermediate,94,Irregular,2,63,Poor,0,2,1,2
+14,Male,Farmer,Low,Intermediate,Advanced,History,4.9,Advanced,130,Irregular,4,84,Good,0,3,2,3
+9,Female,Doctor,Middle,Intermediate,Intermediate,Geography,1.5,Intermediate,115,Irregular,2,51,Poor,0,2,2,2
+3,Female,Business Owner,Middle,Beginner,Beginner,Art,1.2,Beginner,101,Regular,5,69,Excellent,1,1,1,1
+12,Male,Engineer,Middle,Intermediate,Intermediate,Biology,4.1,Intermediate,81,Regular,5,86,Excellent,1,2,2,2
+15,Male,Doctor,Middle,Advanced,Intermediate,History,2.8,Intermediate,76,Irregular,3,79,Average,0,2,3,2
+16,Male,Business Owner,High,Intermediate,Intermediate,Computer Science,2.2,Intermediate,119,Irregular,1,52,Very Poor,0,2,2,2
+11,Male,Doctor,High,Intermediate,Intermediate,Chemistry,2.2,Beginner,129,Regular,2,57,Poor,1,1,2,2
+14,Female,Business Owner,High,Advanced,Advanced,Chemistry,1.1,Advanced,101,Irregular,2,62,Poor,0,3,3,3
+13,Male,Doctor,Low,Beginner,Beginner,Chemistry,0.3,Beginner,86,Irregular,5,64,Excellent,0,1,1,1
+18,Male,Government Employee,High,Intermediate,Intermediate,Geography,1.1,Intermediate,99,Regular,3,61,Average,1,2,2,2
+5,Female,Government Employee,High,Beginner,Beginner,English,0.7,Beginner,134,Irregular,1,32,Very Poor,0,1,1,1
+12,Female,Teacher,Low,Beginner,Beginner,Physics,2.6,Intermediate,134,Irregular,4,76,Good,0,2,1,1
+13,Female,Other,Low,Intermediate,Intermediate,Geography,3.0,Advanced,118,Regular,2,77,Poor,1,3,2,2
+15,Female,Engineer,Middle,Advanced,Advanced,Math,3.4,Advanced,136,Regular,5,97,Excellent,1,3,3,3
+5,Male,Government Employee,Middle,Beginner,Beginner,Biology,0.8,Beginner,131,Regular,5,72,Excellent,1,1,1,1
+16,Male,Teacher,Low,Advanced,Advanced,History,4.5,Advanced,109,Irregular,4,86,Good,0,3,3,3
+16,Male,Doctor,Middle,Intermediate,Advanced,Computer Science,1.8,Advanced,99,Regular,2,61,Poor,1,3,2,3
+3,Female,Artist,Middle,Beginner,Beginner,Chemistry,1.1,Intermediate,92,Regular,1,36,Very Poor,1,2,1,1
+7,Male,Government Employee,Low,Beginner,Intermediate,Geography,1.7,Intermediate,132,Irregular,3,76,Average,0,2,1,2
+8,Male,Business Owner,High,Intermediate,Advanced,Geography,2.4,Advanced,89,Irregular,5,77,Excellent,0,3,2,3
+7,Female,Government Employee,Low,Beginner,Intermediate,Art,1.8,Advanced,112,Regular,2,48,Poor,1,3,1,2
+5,Male,Doctor,Low,Beginner,Beginner,English,1.0,Beginner,83,Irregular,2,44,Poor,0,1,1,1
+15,Female,Farmer,Middle,Intermediate,Beginner,History,1.2,Beginner,107,Regular,2,56,Poor,1,1,2,1
+6,Female,Engineer,High,Beginner,Intermediate,Art,3.9,Advanced,94,Irregular,1,48,Very Poor,0,3,1,2
+17,Male,Unemployed,Low,Intermediate,Intermediate,Math,1.4,Beginner,134,Regular,3,87,Average,1,1,2,2
+13,Female,Artist,Low,Beginner,Intermediate,Geography,1.0,Beginner,75,Irregular,2,45,Poor,0,1,1,2
+5,Female,Business Owner,Middle,Beginner,Beginner,Math,2.0,Beginner,85,Regular,5,61,Excellent,1,1,1,1
+6,Female,Farmer,High,Beginner,Beginner,Biology,0.5,Beginner,122,Regular,1,45,Very Poor,1,1,1,1
+8,Female,Farmer,Middle,Beginner,Beginner,History,0.9,Intermediate,99,Irregular,4,61,Good,0,2,1,1
+13,Female,Other,Middle,Beginner,Beginner,Art,1.4,Beginner,106,Regular,4,64,Good,1,1,1,1
+6,Male,Engineer,High,Beginner,Beginner,Physics,0.8,Beginner,104,Irregular,2,54,Poor,0,1,1,1
+7,Female,Engineer,Low,Beginner,Beginner,Biology,2.4,Beginner,88,Regular,4,70,Good,1,1,1,1
+7,Male,Government Employee,Low,Beginner,Beginner,Physics,1.5,Beginner,126,Regular,4,73,Good,1,1,1,1
+10,Female,Doctor,Middle,Beginner,Beginner,Physics,1.6,Beginner,137,Regular,4,74,Good,1,1,1,1
+4,Female,Teacher,Middle,Beginner,Beginner,Art,1.6,Beginner,80,Regular,3,40,Average,1,1,1,1
+4,Female,Government Employee,Middle,Beginner,Intermediate,History,2.8,Advanced,117,Irregular,4,65,Good,0,3,1,2
+5,Male,Business Owner,Low,Beginner,Intermediate,Geography,1.7,Advanced,108,Regular,1,46,Very Poor,1,3,1,2
+16,Male,Doctor,High,Intermediate,Beginner,Science,2.8,Beginner,113,Regular,2,57,Poor,1,1,2,1
+11,Male,Other,Middle,Beginner,Beginner,Biology,1.8,Intermediate,127,Regular,1,58,Very Poor,1,2,1,1
+5,Female,Teacher,Low,Beginner,Beginner,Chemistry,1.4,Intermediate,86,Irregular,4,61,Good,0,2,1,1
+15,Female,Unemployed,Low,Advanced,Advanced,Chemistry,3.5,Advanced,102,Regular,4,100,Good,1,3,3,3
+14,Female,Farmer,High,Advanced,Intermediate,Biology,2.3,Intermediate,98,Regular,1,55,Very Poor,1,2,3,2
+17,Male,Government Employee,Low,Intermediate,Intermediate,Math,2.5,Intermediate,84,Irregular,5,79,Excellent,0,2,2,2
+17,Female,Government Employee,Low,Advanced,Advanced,Physics,6.4,Advanced,78,Irregular,5,76,Excellent,0,3,3,3
+6,Male,Other,High,Beginner,Beginner,Math,1.4,Intermediate,77,Regular,3,45,Average,1,2,1,1
+13,Female,Doctor,Low,Beginner,Beginner,History,1.0,Beginner,65,Regular,2,29,Poor,1,1,1,1
+5,Male,Artist,Middle,Beginner,Beginner,Chemistry,1.2,Beginner,102,Irregular,4,67,Good,0,1,1,1
+9,Male,Other,High,Intermediate,Intermediate,Chemistry,4.7,Intermediate,131,Irregular,1,69,Very Poor,0,2,2,2
+7,Male,Unemployed,Low,Beginner,Beginner,Science,2.2,Beginner,103,Regular,2,63,Poor,1,1,1,1
+15,Male,Doctor,High,Intermediate,Intermediate,Computer Science,1.9,Intermediate,77,Regular,5,71,Excellent,1,2,2,2
+13,Female,Unemployed,Low,Beginner,Beginner,English,2.4,Intermediate,92,Irregular,3,61,Average,0,2,1,1
+12,Male,Business Owner,High,Beginner,Beginner,History,1.9,Beginner,71,Irregular,3,43,Average,0,1,1,1
+16,Male,Other,High,Intermediate,Intermediate,Computer Science,2.7,Advanced,80,Irregular,5,69,Excellent,0,3,2,2
+12,Female,Business Owner,High,Beginner,Beginner,Geography,1.4,Beginner,108,Regular,2,59,Poor,1,1,1,1
+14,Male,Doctor,Middle,Intermediate,Intermediate,Computer Science,2.0,Beginner,132,Irregular,3,68,Average,0,1,2,2
+5,Male,Government Employee,Middle,Beginner,Beginner,Computer Science,0.1,Beginner,97,Regular,2,34,Poor,1,1,1,1
+11,Male,Unemployed,High,Intermediate,Intermediate,Math,1.7,Intermediate,90,Irregular,2,54,Poor,0,2,2,2
+16,Female,Farmer,Low,Advanced,Advanced,Chemistry,4.2,Intermediate,113,Regular,2,65,Poor,1,2,3,3
+15,Female,Government Employee,Middle,Advanced,Advanced,Physics,5.5,Intermediate,117,Irregular,2,59,Poor,0,2,3,3
+4,Male,Artist,Low,Beginner,Beginner,Physics,0.1,Beginner,77,Regular,1,34,Very Poor,1,1,1,1
+7,Female,Farmer,Middle,Beginner,Beginner,Art,1.8,Beginner,71,Irregular,4,60,Good,0,1,1,1
+13,Male,Doctor,Low,Intermediate,Advanced,History,1.8,Intermediate,126,Irregular,4,67,Good,0,2,2,3
+7,Female,Artist,Low,Beginner,Beginner,Chemistry,1.7,Beginner,109,Regular,1,48,Very Poor,1,1,1,1
+6,Male,Other,Middle,Beginner,Intermediate,Biology,0.2,Beginner,85,Irregular,4,60,Good,0,1,1,2
+9,Female,Other,Middle,Intermediate,Intermediate,Biology,1.8,Intermediate,77,Regular,4,77,Good,1,2,2,2
+7,Male,Other,High,Beginner,Intermediate,Chemistry,3.1,Beginner,114,Irregular,2,37,Poor,0,1,1,2
+15,Male,Other,High,Intermediate,Intermediate,Computer Science,1.0,Advanced,78,Regular,3,61,Average,1,3,2,2
+8,Male,Government Employee,High,Beginner,Beginner,Art,3.2,Beginner,95,Regular,3,66,Average,1,1,1,1
+12,Male,Unemployed,Low,Intermediate,Advanced,Art,3.0,Advanced,137,Regular,1,54,Very Poor,1,3,2,3
+7,Male,Farmer,Middle,Beginner,Beginner,Art,2.3,Beginner,112,Regular,4,84,Good,1,1,1,1
+8,Female,Other,Middle,Intermediate,Beginner,Science,0.5,Beginner,105,Irregular,2,50,Poor,0,1,2,1
+7,Male,Unemployed,High,Beginner,Beginner,Biology,1.1,Beginner,105,Irregular,3,53,Average,0,1,1,1
+7,Female,Engineer,High,Beginner,Beginner,Geography,2.4,Beginner,67,Irregular,5,50,Excellent,0,1,1,1
+9,Male,Teacher,High,Intermediate,Intermediate,Math,3.3,Advanced,79,Irregular,1,45,Very Poor,0,3,2,2
+6,Female,Teacher,High,Beginner,Beginner,English,1.8,Intermediate,121,Regular,4,88,Good,1,2,1,1
+13,Male,Teacher,High,Intermediate,Intermediate,Biology,1.7,Advanced,108,Regular,4,57,Good,1,3,2,2
+4,Male,Business Owner,Low,Beginner,Beginner,Physics,1.5,Intermediate,80,Regular,1,28,Very Poor,1,2,1,1
+8,Female,Engineer,Low,Beginner,Beginner,Math,0.7,Beginner,110,Regular,2,53,Poor,1,1,1,1
+11,Male,Unemployed,High,Intermediate,Intermediate,Science,1.2,Advanced,114,Regular,4,58,Good,1,3,2,2
+10,Male,Unemployed,High,Beginner,Beginner,Chemistry,0.6,Beginner,73,Regular,4,58,Good,1,1,1,1
+17,Female,Government Employee,Low,Intermediate,Intermediate,English,1.3,Intermediate,95,Regular,3,61,Average,1,2,2,2
+3,Male,Other,Middle,Beginner,Beginner,Computer Science,1.1,Beginner,128,Irregular,2,55,Poor,0,1,1,1
+6,Female,Teacher,Middle,Beginner,Beginner,Chemistry,1.6,Beginner,78,Regular,5,47,Excellent,1,1,1,1
+14,Male,Doctor,Low,Intermediate,Advanced,Math,7.2,Advanced,121,Irregular,2,86,Poor,0,3,2,3
+8,Male,Unemployed,High,Beginner,Beginner,Computer Science,0.5,Beginner,103,Regular,1,22,Very Poor,1,1,1,1
+14,Female,Doctor,Low,Intermediate,Intermediate,Physics,2.0,Advanced,75,Regular,5,79,Excellent,1,3,2,2
+13,Male,Doctor,Low,Beginner,Beginner,History,1.3,Beginner,126,Regular,2,61,Poor,1,1,1,1
+6,Female,Engineer,High,Beginner,Intermediate,Math,2.4,Beginner,76,Regular,5,63,Excellent,1,1,1,2
+14,Male,Other,High,Advanced,Advanced,Math,2.7,Intermediate,80,Regular,4,73,Good,1,2,3,3
+14,Female,Artist,Low,Advanced,Advanced,History,5.9,Advanced,85,Irregular,3,77,Average,0,3,3,3
+12,Female,Other,Middle,Intermediate,Beginner,Math,1.6,Beginner,94,Regular,4,73,Good,1,1,2,1
+5,Male,Teacher,High,Beginner,Beginner,Chemistry,2.0,Beginner,70,Regular,5,63,Excellent,1,1,1,1
+7,Male,Other,Middle,Beginner,Beginner,Computer Science,0.7,Beginner,91,Regular,2,45,Poor,1,1,1,1
+13,Female,Farmer,High,Intermediate,Intermediate,Geography,2.1,Intermediate,111,Regular,5,92,Excellent,1,2,2,2
+15,Female,Other,High,Intermediate,Intermediate,Science,3.0,Intermediate,84,Regular,2,58,Poor,1,2,2,2
+16,Female,Teacher,Low,Intermediate,Advanced,Geography,3.5,Intermediate,74,Irregular,4,63,Good,0,2,2,3
+18,Female,Teacher,Middle,Advanced,Advanced,Physics,1.6,Advanced,120,Irregular,4,81,Good,0,3,3,3
+17,Female,Business Owner,Low,Advanced,Advanced,Physics,2.2,Advanced,107,Regular,3,76,Average,1,3,3,3
+6,Male,Other,Middle,Beginner,Beginner,Computer Science,0.6,Beginner,138,Irregular,5,60,Excellent,0,1,1,1
+10,Female,Artist,Low,Beginner,Beginner,Science,0.9,Beginner,74,Irregular,4,59,Good,0,1,1,1
+9,Female,Other,High,Beginner,Beginner,Art,1.0,Intermediate,90,Irregular,5,60,Excellent,0,2,1,1
+10,Male,Engineer,Middle,Beginner,Beginner,Math,2.6,Beginner,98,Irregular,4,61,Good,0,1,1,1
+10,Female,Farmer,Middle,Beginner,Beginner,Art,1.8,Beginner,109,Irregular,5,70,Excellent,0,1,1,1
+14,Female,Other,Low,Intermediate,Intermediate,History,3.2,Intermediate,129,Regular,4,88,Good,1,2,2,2
+5,Male,Farmer,Middle,Beginner,Beginner,Math,2.5,Beginner,121,Irregular,2,61,Poor,0,1,1,1
+7,Male,Engineer,Middle,Beginner,Intermediate,Geography,2.7,Intermediate,128,Irregular,2,55,Poor,0,2,1,2
+14,Female,Artist,Middle,Advanced,Advanced,Biology,1.8,Intermediate,107,Irregular,2,60,Poor,0,2,3,3
+15,Male,Other,Low,Intermediate,Beginner,Geography,2.9,Beginner,129,Regular,3,78,Average,1,1,2,1
+18,Female,Farmer,Low,Intermediate,Advanced,Science,3.4,Advanced,105,Irregular,4,81,Good,0,3,2,3
+13,Male,Farmer,High,Intermediate,Intermediate,English,0.8,Advanced,69,Regular,2,40,Poor,1,3,2,2
+16,Female,Government Employee,Middle,Intermediate,Beginner,Art,0.1,Intermediate,118,Irregular,4,73,Good,0,2,2,1
+13,Female,Unemployed,High,Intermediate,Intermediate,Science,2.2,Intermediate,85,Regular,5,81,Excellent,1,2,2,2
+11,Female,Business Owner,High,Intermediate,Advanced,Science,4.9,Advanced,95,Irregular,4,78,Good,0,3,2,3
+18,Female,Business Owner,High,Advanced,Advanced,Chemistry,2.8,Advanced,122,Regular,4,81,Good,1,3,3,3
+16,Male,Other,Middle,Advanced,Advanced,Computer Science,5.3,Advanced,101,Irregular,2,72,Poor,0,3,3,3
+16,Male,Farmer,High,Intermediate,Intermediate,Chemistry,4.2,Intermediate,97,Regular,2,56,Poor,1,2,2,2
+11,Male,Government Employee,Middle,Intermediate,Advanced,Chemistry,2.7,Intermediate,93,Regular,1,50,Very Poor,1,2,2,3
+6,Male,Unemployed,Low,Beginner,Beginner,Science,1.0,Beginner,89,Irregular,2,48,Poor,0,1,1,1
+16,Female,Artist,Low,Advanced,Intermediate,Chemistry,0.6,Intermediate,92,Regular,3,54,Average,1,2,3,2
+18,Female,Farmer,Low,Advanced,Advanced,Geography,3.4,Advanced,105,Irregular,3,75,Average,0,3,3,3
+16,Male,Doctor,Low,Advanced,Advanced,Biology,4.1,Intermediate,121,Irregular,2,69,Poor,0,2,3,3
+8,Female,Doctor,Middle,Intermediate,Beginner,Computer Science,2.1,Beginner,87,Regular,3,47,Average,1,1,2,1
+13,Male,Business Owner,Low,Beginner,Intermediate,Chemistry,1.7,Advanced,94,Irregular,4,69,Good,0,3,1,2
+9,Female,Government Employee,Low,Intermediate,Advanced,Science,3.1,Advanced,71,Irregular,1,44,Very Poor,0,3,2,3
+6,Male,Farmer,Low,Beginner,Beginner,Chemistry,2.8,Beginner,111,Irregular,1,61,Very Poor,0,1,1,1
+14,Female,Engineer,High,Advanced,Advanced,History,2.4,Advanced,120,Regular,5,83,Excellent,1,3,3,3
+14,Female,Engineer,Low,Advanced,Advanced,Science,3.1,Advanced,99,Regular,4,85,Good,1,3,3,3
+6,Male,Other,Middle,Beginner,Beginner,Physics,0.8,Beginner,82,Irregular,4,58,Good,0,1,1,1
+14,Male,Doctor,Low,Advanced,Advanced,Physics,6.5,Advanced,115,Regular,3,94,Average,1,3,3,3
+14,Female,Other,Low,Intermediate,Beginner,Physics,1.4,Beginner,96,Irregular,2,37,Poor,0,1,2,1
+16,Male,Doctor,High,Advanced,Advanced,Science,5.4,Intermediate,126,Regular,1,72,Very Poor,1,2,3,3
+15,Female,Teacher,High,Advanced,Advanced,Science,3.9,Intermediate,104,Regular,5,88,Excellent,1,2,3,3
+17,Male,Government Employee,Middle,Intermediate,Intermediate,Biology,2.4,Intermediate,79,Irregular,3,54,Average,0,2,2,2
+7,Female,Other,Low,Beginner,Beginner,Computer Science,1.2,Beginner,106,Irregular,2,57,Poor,0,1,1,1
+5,Male,Business Owner,Middle,Beginner,Intermediate,Chemistry,1.7,Intermediate,128,Irregular,4,81,Good,0,2,1,2
+5,Female,Government Employee,Low,Beginner,Intermediate,English,4.5,Beginner,85,Regular,4,83,Good,1,1,1,2
+10,Female,Artist,Middle,Intermediate,Intermediate,Biology,4.3,Beginner,71,Regular,5,84,Excellent,1,1,2,2
+4,Male,Teacher,Low,Beginner,Beginner,Art,1.1,Intermediate,118,Irregular,4,65,Good,0,2,1,1
+18,Female,Artist,Low,Advanced,Advanced,Biology,5.8,Intermediate,89,Regular,1,52,Very Poor,1,2,3,3
+14,Female,Doctor,Low,Intermediate,Intermediate,Chemistry,1.7,Intermediate,101,Irregular,4,54,Good,0,2,2,2
+16,Male,Other,Low,Advanced,Advanced,Geography,1.9,Intermediate,110,Regular,2,75,Poor,1,2,3,3
+15,Male,Engineer,Middle,Intermediate,Beginner,Biology,1.8,Beginner,135,Irregular,2,72,Poor,0,1,2,1
+4,Female,Doctor,High,Beginner,Beginner,English,1.7,Beginner,89,Regular,5,58,Excellent,1,1,1,1
+5,Female,Government Employee,Low,Beginner,Beginner,English,1.6,Beginner,95,Regular,3,61,Average,1,1,1,1
+10,Female,Doctor,High,Beginner,Beginner,Physics,2.3,Intermediate,95,Regular,1,54,Very Poor,1,2,1,1
+8,Female,Doctor,Low,Beginner,Beginner,Science,0.3,Beginner,140,Irregular,1,39,Very Poor,0,1,1,1
+7,Male,Other,Low,Beginner,Beginner,Math,0.9,Beginner,126,Irregular,1,32,Very Poor,0,1,1,1
+17,Female,Teacher,High,Advanced,Advanced,Physics,2.5,Advanced,88,Irregular,5,92,Excellent,0,3,3,3
+14,Female,Doctor,Low,Advanced,Advanced,History,2.1,Advanced,121,Regular,5,98,Excellent,1,3,3,3
+6,Male,Unemployed,Middle,Beginner,Beginner,Geography,2.6,Beginner,119,Irregular,1,38,Very Poor,0,1,1,1
+9,Male,Doctor,Middle,Intermediate,Intermediate,English,1.5,Beginner,104,Regular,3,80,Average,1,1,2,2
+16,Male,Engineer,Low,Intermediate,Advanced,Art,2.8,Advanced,115,Irregular,3,71,Average,0,3,2,3
+5,Male,Teacher,Low,Beginner,Beginner,Biology,1.1,Beginner,97,Regular,3,68,Average,1,1,1,1
+7,Female,Business Owner,High,Beginner,Beginner,Art,0.5,Intermediate,81,Regular,4,44,Good,1,2,1,1
+13,Male,Doctor,Low,Intermediate,Intermediate,History,2.0,Intermediate,92,Irregular,4,63,Good,0,2,2,2
+8,Female,Engineer,High,Intermediate,Intermediate,History,4.1,Advanced,90,Irregular,4,84,Good,0,3,2,2
+9,Female,Unemployed,High,Intermediate,Intermediate,Computer Science,3.6,Beginner,83,Regular,5,73,Excellent,1,1,2,2
+18,Male,Other,High,Advanced,Advanced,Art,2.2,Advanced,135,Irregular,5,88,Excellent,0,3,3,3
+4,Female,Doctor,High,Beginner,Beginner,Math,1.6,Beginner,110,Regular,5,65,Excellent,1,1,1,1
+12,Male,Business Owner,Middle,Intermediate,Intermediate,Art,1.7,Intermediate,103,Regular,1,48,Very Poor,1,2,2,2
+14,Male,Teacher,Middle,Advanced,Advanced,Chemistry,3.6,Advanced,91,Irregular,5,78,Excellent,0,3,3,3
+8,Female,Unemployed,Low,Beginner,Beginner,Computer Science,2.3,Beginner,99,Irregular,2,51,Poor,0,1,1,1
+5,Male,Teacher,Middle,Beginner,Beginner,History,2.3,Intermediate,107,Irregular,4,78,Good,0,2,1,1
+9,Male,Artist,Middle,Beginner,Beginner,Chemistry,1.6,Intermediate,91,Regular,4,69,Good,1,2,1,1
+5,Male,Unemployed,Middle,Beginner,Beginner,Biology,0.8,Beginner,119,Regular,4,66,Good,1,1,1,1
+14,Male,Business Owner,Low,Advanced,Advanced,Science,6.0,Advanced,67,Irregular,2,70,Poor,0,3,3,3
+15,Male,Engineer,High,Intermediate,Intermediate,History,2.6,Intermediate,115,Irregular,1,60,Very Poor,0,2,2,2
+18,Male,Doctor,High,Advanced,Advanced,Computer Science,5.5,Advanced,92,Regular,2,72,Poor,1,3,3,3
+12,Female,Engineer,Low,Beginner,Beginner,Math,1.1,Beginner,75,Regular,2,46,Poor,1,1,1,1
+10,Female,Business Owner,High,Intermediate,Beginner,Physics,2.0,Beginner,113,Irregular,4,80,Good,0,1,2,1
+7,Male,Artist,High,Beginner,Intermediate,English,2.4,Beginner,103,Irregular,1,30,Very Poor,0,1,1,2
+10,Female,Other,Middle,Beginner,Intermediate,Computer Science,2.6,Intermediate,83,Irregular,5,85,Excellent,0,2,1,2
+14,Male,Government Employee,Middle,Advanced,Advanced,Physics,2.1,Advanced,81,Regular,4,81,Good,1,3,3,3
+14,Male,Unemployed,High,Advanced,Advanced,Computer Science,3.3,Intermediate,97,Regular,2,66,Poor,1,2,3,3
+4,Female,Engineer,Middle,Beginner,Beginner,History,0.5,Beginner,109,Regular,2,44,Poor,1,1,1,1
+4,Female,Government Employee,High,Beginner,Beginner,Geography,1.5,Beginner,94,Regular,3,51,Average,1,1,1,1
+18,Male,Doctor,Low,Advanced,Advanced,Physics,1.7,Advanced,69,Regular,3,63,Average,1,3,3,3
+13,Female,Artist,Low,Beginner,Beginner,Computer Science,2.2,Beginner,109,Irregular,5,78,Excellent,0,1,1,1
+6,Male,Teacher,High,Beginner,Beginner,Math,0.9,Beginner,89,Irregular,1,35,Very Poor,0,1,1,1
+15,Male,Farmer,Low,Advanced,Advanced,Geography,5.0,Advanced,92,Irregular,4,71,Good,0,3,3,3
+10,Male,Farmer,High,Intermediate,Beginner,Art,2.5,Beginner,117,Irregular,3,67,Average,0,1,2,1
+17,Female,Teacher,High,Intermediate,Intermediate,Art,2.1,Intermediate,72,Irregular,3,51,Average,0,2,2,2
+18,Male,Farmer,Low,Intermediate,Intermediate,Physics,1.3,Intermediate,131,Irregular,3,55,Average,0,2,2,2
+5,Female,Teacher,High,Beginner,Intermediate,Science,1.4,Intermediate,82,Regular,5,63,Excellent,1,2,1,2
+11,Female,Other,Low,Beginner,Beginner,Chemistry,1.0,Beginner,98,Irregular,4,46,Good,0,1,1,1
+13,Male,Business Owner,Middle,Intermediate,Beginner,Math,1.0,Beginner,99,Irregular,1,36,Very Poor,0,1,2,1
+11,Male,Government Employee,High,Beginner,Beginner,Physics,0.8,Intermediate,74,Irregular,3,45,Average,0,2,1,1
+13,Female,Unemployed,Low,Beginner,Beginner,Math,0.5,Beginner,100,Regular,3,64,Average,1,1,1,1
+5,Female,Unemployed,Middle,Beginner,Beginner,History,1.3,Beginner,94,Regular,4,59,Good,1,1,1,1
+4,Female,Artist,High,Beginner,Intermediate,Physics,1.6,Advanced,78,Regular,3,63,Average,1,3,1,2
+8,Male,Farmer,Low,Beginner,Beginner,Chemistry,0.8,Beginner,101,Irregular,5,80,Excellent,0,1,1,1
+6,Female,Farmer,High,Beginner,Beginner,Computer Science,2.3,Intermediate,93,Regular,2,56,Poor,1,2,1,1
+8,Male,Other,High,Beginner,Beginner,Computer Science,1.7,Beginner,126,Irregular,4,83,Good,0,1,1,1
+5,Female,Teacher,Middle,Beginner,Beginner,Math,1.3,Beginner,124,Regular,1,46,Very Poor,1,1,1,1
+13,Male,Other,High,Intermediate,Intermediate,Biology,1.2,Intermediate,72,Regular,2,44,Poor,1,2,2,2
+10,Female,Government Employee,High,Beginner,Intermediate,Computer Science,2.7,Beginner,107,Regular,1,47,Very Poor,1,1,1,2
+12,Female,Government Employee,High,Intermediate,Advanced,Computer Science,2.3,Advanced,90,Regular,2,65,Poor,1,3,2,3
+14,Male,Engineer,Middle,Intermediate,Beginner,History,2.8,Beginner,131,Regular,4,84,Good,1,1,2,1
+13,Female,Unemployed,High,Beginner,Beginner,Art,1.1,Beginner,113,Regular,2,49,Poor,1,1,1,1
+15,Female,Engineer,Low,Intermediate,Intermediate,Chemistry,2.6,Intermediate,78,Irregular,3,62,Average,0,2,2,2
+17,Male,Doctor,Low,Intermediate,Beginner,Art,0.2,Intermediate,92,Irregular,1,30,Very Poor,0,2,2,1
+3,Male,Other,Low,Beginner,Beginner,Biology,0.7,Beginner,97,Irregular,5,63,Excellent,0,1,1,1
+15,Female,Engineer,Low,Intermediate,Beginner,Chemistry,2.5,Beginner,91,Irregular,1,43,Very Poor,0,1,2,1
+4,Female,Government Employee,Middle,Beginner,Beginner,Chemistry,2.1,Beginner,93,Irregular,2,53,Poor,0,1,1,1
+17,Male,Business Owner,High,Intermediate,Advanced,Geography,3.2,Advanced,116,Regular,1,80,Very Poor,1,3,2,3
+16,Female,Farmer,Middle,Intermediate,Intermediate,Physics,1.1,Advanced,128,Regular,5,88,Excellent,1,3,2,2
+17,Male,Farmer,Middle,Advanced,Advanced,History,2.6,Advanced,84,Regular,3,85,Average,1,3,3,3
+11,Female,Artist,High,Beginner,Beginner,English,4.2,Beginner,117,Irregular,1,43,Very Poor,0,1,1,1
+8,Female,Government Employee,High,Intermediate,Intermediate,Science,3.8,Beginner,104,Regular,2,72,Poor,1,1,2,2
+7,Female,Artist,High,Beginner,Beginner,Art,1.5,Beginner,117,Irregular,5,78,Excellent,0,1,1,1
+6,Female,Government Employee,High,Beginner,Beginner,Biology,0.9,Beginner,80,Irregular,3,48,Average,0,1,1,1
+3,Male,Government Employee,Low,Beginner,Beginner,Science,1.3,Intermediate,93,Regular,1,35,Very Poor,1,2,1,1
+3,Female,Teacher,High,Beginner,Beginner,Math,1.5,Beginner,103,Regular,2,57,Poor,1,1,1,1
+4,Female,Farmer,Low,Beginner,Beginner,Math,0.6,Intermediate,93,Regular,2,52,Poor,1,2,1,1
+18,Male,Artist,Low,Advanced,Advanced,Physics,3.2,Advanced,98,Irregular,4,76,Good,0,3,3,3
+9,Female,Other,High,Intermediate,Intermediate,Science,4.2,Intermediate,99,Regular,2,71,Poor,1,2,2,2
+5,Male,Other,Low,Beginner,Beginner,Physics,2.7,Beginner,88,Regular,4,79,Good,1,1,1,1
+5,Male,Engineer,Low,Beginner,Beginner,Art,2.4,Beginner,111,Irregular,1,38,Very Poor,0,1,1,1
+5,Male,Teacher,Middle,Beginner,Beginner,Geography,1.8,Beginner,78,Irregular,5,65,Excellent,0,1,1,1
+17,Male,Business Owner,Low,Advanced,Advanced,Art,4.0,Intermediate,130,Irregular,4,84,Good,0,2,3,3
+17,Female,Engineer,Middle,Intermediate,Intermediate,Science,1.3,Intermediate,86,Irregular,2,54,Poor,0,2,2,2
+12,Male,Other,Middle,Beginner,Beginner,English,1.5,Beginner,128,Regular,4,73,Good,1,1,1,1
+12,Male,Artist,Middle,Intermediate,Intermediate,Computer Science,1.5,Intermediate,96,Irregular,5,64,Excellent,0,2,2,2
+5,Female,Government Employee,Middle,Beginner,Beginner,Chemistry,1.1,Beginner,118,Irregular,1,50,Very Poor,0,1,1,1
+17,Male,Farmer,Middle,Intermediate,Beginner,Math,1.7,Beginner,84,Regular,3,68,Average,1,1,2,1
+15,Male,Engineer,Low,Intermediate,Beginner,Math,2.8,Beginner,74,Regular,1,49,Very Poor,1,1,2,1
+14,Male,Doctor,High,Advanced,Advanced,Science,5.2,Advanced,99,Regular,2,74,Poor,1,3,3,3
+14,Male,Doctor,High,Intermediate,Intermediate,Biology,2.0,Beginner,114,Regular,3,64,Average,1,1,2,2
+9,Female,Government Employee,High,Intermediate,Beginner,History,2.4,Intermediate,139,Irregular,3,79,Average,0,2,2,1
+14,Female,Unemployed,Low,Intermediate,Intermediate,Chemistry,2.6,Intermediate,89,Irregular,2,47,Poor,0,2,2,2
+4,Female,Engineer,High,Beginner,Beginner,History,3.3,Beginner,136,Regular,1,61,Very Poor,1,1,1,1
+15,Female,Doctor,High,Intermediate,Intermediate,Science,2.1,Advanced,74,Regular,3,72,Average,1,3,2,2
+6,Female,Artist,Middle,Beginner,Beginner,Geography,0.9,Beginner,92,Regular,1,40,Very Poor,1,1,1,1
+16,Male,Artist,High,Advanced,Advanced,English,2.5,Advanced,129,Irregular,3,76,Average,0,3,3,3
+12,Male,Government Employee,Middle,Intermediate,Intermediate,Computer Science,2.3,Intermediate,132,Regular,3,81,Average,1,2,2,2
+5,Male,Unemployed,High,Beginner,Beginner,Biology,2.0,Intermediate,115,Regular,5,75,Excellent,1,2,1,1
+11,Male,Business Owner,Middle,Beginner,Intermediate,English,2.9,Beginner,75,Regular,1,42,Very Poor,1,1,1,2
+8,Male,Farmer,Low,Intermediate,Intermediate,Computer Science,3.3,Advanced,129,Irregular,2,65,Poor,0,3,2,2
+11,Female,Government Employee,Middle,Beginner,Beginner,Art,2.4,Intermediate,135,Irregular,2,63,Poor,0,2,1,1
+8,Female,Doctor,Low,Intermediate,Intermediate,Math,1.6,Intermediate,98,Regular,3,75,Average,1,2,2,2
+11,Male,Doctor,High,Intermediate,Advanced,Biology,5.0,Advanced,87,Irregular,3,63,Average,0,3,2,3
+15,Male,Farmer,Middle,Intermediate,Intermediate,History,2.6,Intermediate,77,Regular,2,40,Poor,1,2,2,2
+13,Female,Government Employee,Low,Intermediate,Advanced,Computer Science,3.0,Advanced,134,Irregular,3,97,Average,0,3,2,3
+11,Male,Government Employee,Low,Intermediate,Intermediate,Math,2.1,Advanced,118,Regular,4,88,Good,1,3,2,2
+7,Female,Farmer,High,Beginner,Beginner,English,1.1,Beginner,79,Irregular,1,30,Very Poor,0,1,1,1
+14,Male,Unemployed,High,Advanced,Intermediate,Science,2.1,Intermediate,140,Irregular,2,70,Poor,0,2,3,2
+17,Female,Business Owner,Low,Intermediate,Intermediate,Computer Science,1.0,Advanced,107,Regular,2,60,Poor,1,3,2,2
+6,Male,Other,High,Beginner,Intermediate,History,0.4,Intermediate,74,Regular,3,65,Average,1,2,1,2
+15,Female,Farmer,Middle,Intermediate,Intermediate,Science,3.4,Intermediate,70,Irregular,3,67,Average,0,2,2,2
+9,Female,Other,Low,Intermediate,Intermediate,Biology,0.7,Advanced,95,Regular,3,53,Average,1,3,2,2
+6,Male,Doctor,Low,Beginner,Intermediate,Physics,1.3,Advanced,105,Irregular,2,61,Poor,0,3,1,2
+16,Female,Teacher,Middle,Advanced,Advanced,Geography,5.7,Advanced,78,Irregular,5,93,Excellent,0,3,3,3
+7,Female,Engineer,Low,Beginner,Beginner,Physics,1.7,Beginner,99,Irregular,2,52,Poor,0,1,1,1
+16,Female,Engineer,Low,Advanced,Intermediate,History,1.3,Intermediate,87,Irregular,1,41,Very Poor,0,2,3,2
+16,Male,Teacher,Middle,Advanced,Advanced,Science,1.9,Advanced,116,Regular,5,92,Excellent,1,3,3,3
+7,Male,Doctor,Middle,Beginner,Beginner,Chemistry,1.3,Beginner,118,Regular,2,68,Poor,1,1,1,1
+18,Female,Engineer,High,Advanced,Advanced,Computer Science,2.5,Advanced,120,Regular,3,71,Average,1,3,3,3
+16,Female,Farmer,Middle,Intermediate,Beginner,Physics,0.7,Intermediate,112,Regular,2,53,Poor,1,2,2,1
+3,Male,Doctor,Middle,Beginner,Beginner,Geography,1.5,Intermediate,134,Irregular,5,76,Excellent,0,2,1,1
+8,Female,Farmer,Low,Intermediate,Intermediate,Physics,2.0,Advanced,112,Regular,1,37,Very Poor,1,3,2,2
+17,Female,Engineer,High,Advanced,Intermediate,Math,2.2,Advanced,127,Regular,2,75,Poor,1,3,3,2
+18,Male,Government Employee,High,Intermediate,Beginner,Geography,3.4,Beginner,117,Irregular,2,47,Poor,0,1,2,1
+9,Male,Artist,Middle,Intermediate,Intermediate,Physics,1.5,Beginner,99,Regular,5,70,Excellent,1,1,2,2
+17,Male,Farmer,Low,Advanced,Advanced,Geography,1.6,Intermediate,115,Irregular,4,75,Good,0,2,3,3
+9,Female,Unemployed,Middle,Beginner,Beginner,Biology,0.6,Intermediate,108,Irregular,5,64,Excellent,0,2,1,1
+18,Female,Engineer,Middle,Intermediate,Advanced,Math,2.9,Advanced,109,Regular,3,85,Average,1,3,2,3
+6,Male,Unemployed,High,Beginner,Intermediate,Art,2.3,Beginner,115,Irregular,3,62,Average,0,1,1,2
+10,Male,Government Employee,High,Beginner,Beginner,Computer Science,1.1,Beginner,77,Regular,1,17,Very Poor,1,1,1,1
+10,Female,Farmer,Low,Beginner,Beginner,Chemistry,1.6,Beginner,99,Irregular,3,51,Average,0,1,1,1
+16,Female,Other,High,Intermediate,Intermediate,Math,1.8,Advanced,128,Regular,1,61,Very Poor,1,3,2,2
+14,Female,Teacher,High,Advanced,Advanced,Chemistry,1.1,Advanced,102,Irregular,1,48,Very Poor,0,3,3,3
+12,Female,Doctor,High,Intermediate,Advanced,Physics,4.0,Intermediate,94,Irregular,5,86,Excellent,0,2,2,3
+18,Male,Farmer,High,Intermediate,Advanced,Math,2.2,Advanced,133,Irregular,4,88,Good,0,3,2,3
+10,Male,Government Employee,High,Beginner,Beginner,Geography,2.7,Intermediate,114,Regular,4,86,Good,1,2,1,1
+6,Female,Farmer,Low,Beginner,Beginner,Biology,2.0,Beginner,101,Irregular,5,70,Excellent,0,1,1,1
+17,Female,Artist,Low,Advanced,Advanced,Chemistry,1.3,Advanced,117,Regular,5,69,Excellent,1,3,3,3
+17,Male,Business Owner,Middle,Advanced,Advanced,History,5.4,Advanced,103,Irregular,3,61,Average,0,3,3,3
+5,Female,Farmer,Middle,Beginner,Intermediate,Chemistry,3.4,Advanced,73,Irregular,3,72,Average,0,3,1,2
+8,Female,Other,High,Intermediate,Intermediate,English,2.7,Intermediate,101,Irregular,4,75,Good,0,2,2,2
+4,Male,Business Owner,Low,Beginner,Beginner,Math,1.7,Beginner,90,Irregular,1,35,Very Poor,0,1,1,1
+11,Female,Doctor,High,Intermediate,Intermediate,Chemistry,3.6,Intermediate,130,Regular,5,87,Excellent,1,2,2,2
+3,Male,Teacher,Low,Beginner,Beginner,Physics,3.5,Beginner,113,Irregular,3,83,Average,0,1,1,1
+6,Female,Engineer,High,Beginner,Beginner,Art,2.9,Intermediate,72,Irregular,3,60,Average,0,2,1,1
+6,Female,Unemployed,Middle,Beginner,Beginner,Chemistry,1.1,Intermediate,113,Irregular,2,41,Poor,0,2,1,1
+5,Male,Business Owner,Low,Beginner,Beginner,Science,2.1,Beginner,86,Regular,1,38,Very Poor,1,1,1,1
+16,Male,Doctor,Low,Intermediate,Intermediate,Math,1.2,Intermediate,85,Regular,5,80,Excellent,1,2,2,2
+15,Male,Farmer,Middle,Intermediate,Beginner,English,2.3,Beginner,117,Regular,5,79,Excellent,1,1,2,1
+18,Female,Government Employee,Middle,Advanced,Advanced,Science,3.3,Advanced,128,Regular,4,84,Good,1,3,3,3
+14,Female,Teacher,High,Intermediate,Intermediate,Computer Science,3.3,Advanced,70,Regular,2,65,Poor,1,3,2,2
+16,Female,Doctor,High,Advanced,Advanced,Science,5.1,Intermediate,131,Regular,1,54,Very Poor,1,2,3,3
+12,Male,Government Employee,Low,Intermediate,Intermediate,Geography,2.2,Advanced,89,Irregular,2,53,Poor,0,3,2,2
+4,Female,Farmer,High,Beginner,Beginner,Science,2.0,Intermediate,89,Regular,4,60,Good,1,2,1,1
+11,Female,Doctor,Middle,Intermediate,Beginner,Physics,2.6,Intermediate,102,Irregular,4,68,Good,0,2,2,1
+12,Female,Engineer,Middle,Beginner,Beginner,Chemistry,2.9,Beginner,95,Regular,3,60,Average,1,1,1,1
+7,Male,Unemployed,Middle,Beginner,Beginner,Physics,1.5,Beginner,82,Regular,1,24,Very Poor,1,1,1,1
+17,Female,Doctor,Middle,Intermediate,Advanced,Chemistry,2.4,Advanced,95,Irregular,2,52,Poor,0,3,2,3
+3,Male,Teacher,High,Beginner,Beginner,Computer Science,2.1,Beginner,105,Regular,1,36,Very Poor,1,1,1,1
+10,Male,Engineer,Middle,Beginner,Beginner,History,2.3,Beginner,99,Regular,4,83,Good,1,1,1,1
+18,Male,Farmer,Middle,Advanced,Advanced,Science,2.0,Advanced,82,Irregular,5,74,Excellent,0,3,3,3
+14,Male,Artist,High,Advanced,Advanced,History,5.6,Advanced,116,Irregular,3,80,Average,0,3,3,3
+5,Male,Other,High,Beginner,Beginner,Science,2.4,Beginner,124,Irregular,5,88,Excellent,0,1,1,1
+11,Male,Business Owner,High,Intermediate,Intermediate,English,2.6,Intermediate,75,Regular,2,49,Poor,1,2,2,2
+3,Male,Government Employee,Middle,Beginner,Intermediate,Science,3.2,Intermediate,101,Regular,1,66,Very Poor,1,2,1,2
+3,Male,Doctor,Low,Beginner,Intermediate,Physics,4.1,Intermediate,97,Regular,3,91,Average,1,2,1,2
+6,Female,Unemployed,Middle,Beginner,Beginner,Geography,0.6,Beginner,108,Irregular,3,61,Average,0,1,1,1
+13,Male,Other,Low,Beginner,Intermediate,Computer Science,2.4,Advanced,112,Irregular,4,79,Good,0,3,1,2
+9,Male,Engineer,Low,Beginner,Intermediate,Art,1.8,Beginner,113,Irregular,3,70,Average,0,1,1,2
+9,Male,Doctor,High,Intermediate,Intermediate,Biology,1.0,Beginner,89,Regular,4,62,Good,1,1,2,2
+9,Male,Doctor,Low,Beginner,Intermediate,Computer Science,4.1,Advanced,83,Regular,2,57,Poor,1,3,1,2
+8,Female,Doctor,Low,Intermediate,Intermediate,Geography,2.0,Advanced,137,Regular,5,82,Excellent,1,3,2,2
+7,Male,Unemployed,Middle,Beginner,Beginner,Biology,1.9,Beginner,140,Regular,1,53,Very Poor,1,1,1,1
+4,Male,Business Owner,High,Beginner,Intermediate,Geography,0.7,Advanced,124,Regular,3,63,Average,1,3,1,2
+10,Female,Farmer,High,Intermediate,Beginner,History,2.0,Beginner,86,Regular,2,68,Poor,1,1,2,1
+8,Female,Artist,Middle,Intermediate,Beginner,Chemistry,2.5,Beginner,113,Irregular,3,70,Average,0,1,2,1
+5,Male,Farmer,Middle,Beginner,Beginner,Biology,0.8,Beginner,96,Regular,1,18,Very Poor,1,1,1,1
+4,Female,Teacher,Middle,Beginner,Beginner,Chemistry,2.4,Beginner,122,Regular,3,79,Average,1,1,1,1
+15,Male,Artist,Middle,Intermediate,Intermediate,Computer Science,3.6,Intermediate,105,Regular,5,84,Excellent,1,2,2,2
+10,Male,Unemployed,Middle,Intermediate,Intermediate,Chemistry,0.2,Intermediate,83,Regular,4,61,Good,1,2,2,2
+7,Female,Doctor,High,Beginner,Beginner,Geography,1.4,Intermediate,116,Regular,3,51,Average,1,2,1,1
+18,Female,Government Employee,Low,Advanced,Advanced,Art,3.2,Advanced,106,Irregular,4,82,Good,0,3,3,3
+14,Male,Farmer,Middle,Advanced,Advanced,Geography,3.8,Advanced,113,Irregular,4,79,Good,0,3,3,3
+6,Female,Other,Middle,Beginner,Beginner,Computer Science,1.5,Beginner,106,Irregular,1,37,Very Poor,0,1,1,1
+18,Female,Doctor,Low,Intermediate,Advanced,History,1.6,Intermediate,89,Irregular,1,43,Very Poor,0,2,2,3
+3,Male,Farmer,High,Beginner,Beginner,Art,2.1,Beginner,70,Regular,5,61,Excellent,1,1,1,1
+13,Female,Teacher,Middle,Intermediate,Intermediate,Art,3.6,Intermediate,106,Regular,5,83,Excellent,1,2,2,2
+15,Male,Unemployed,High,Advanced,Intermediate,Math,1.2,Advanced,93,Regular,4,66,Good,1,3,3,2
+3,Male,Doctor,High,Beginner,Beginner,Chemistry,1.5,Beginner,96,Regular,5,79,Excellent,1,1,1,1
+3,Female,Engineer,Middle,Beginner,Beginner,History,2.1,Beginner,86,Regular,3,53,Average,1,1,1,1
+5,Female,Farmer,High,Beginner,Beginner,English,2.3,Intermediate,93,Irregular,1,29,Very Poor,0,2,1,1
+12,Male,Unemployed,High,Intermediate,Intermediate,Math,3.7,Advanced,78,Regular,2,76,Poor,1,3,2,2
+4,Male,Other,Low,Beginner,Beginner,Math,1.1,Beginner,98,Irregular,2,45,Poor,0,1,1,1
+9,Male,Government Employee,High,Beginner,Beginner,Physics,1.8,Beginner,110,Irregular,3,59,Average,0,1,1,1
+15,Female,Doctor,Low,Intermediate,Intermediate,History,1.0,Advanced,74,Irregular,4,65,Good,0,3,2,2
+3,Female,Engineer,High,Beginner,Beginner,Chemistry,2.4,Beginner,83,Regular,3,71,Average,1,1,1,1
+4,Male,Farmer,High,Beginner,Beginner,Biology,2.7,Beginner,90,Irregular,1,39,Very Poor,0,1,1,1
+6,Male,Artist,Middle,Beginner,Beginner,Biology,0.5,Intermediate,76,Irregular,4,45,Good,0,2,1,1
+6,Female,Farmer,High,Beginner,Beginner,Physics,1.9,Beginner,112,Regular,2,55,Poor,1,1,1,1
+16,Male,Engineer,Middle,Intermediate,Intermediate,Geography,3.3,Intermediate,115,Irregular,3,58,Average,0,2,2,2
+18,Male,Other,Middle,Intermediate,Advanced,Science,5.1,Advanced,81,Regular,4,80,Good,1,3,2,3
+4,Female,Unemployed,High,Beginner,Beginner,Chemistry,0.4,Beginner,99,Regular,2,34,Poor,1,1,1,1
+4,Female,Other,Middle,Beginner,Beginner,Computer Science,1.5,Beginner,111,Irregular,4,60,Good,0,1,1,1
+16,Female,Business Owner,High,Advanced,Advanced,Math,4.3,Advanced,110,Regular,5,100,Excellent,1,3,3,3
+9,Female,Other,Low,Intermediate,Advanced,Chemistry,6.0,Advanced,80,Irregular,2,65,Poor,0,3,2,3
+12,Male,Engineer,High,Intermediate,Intermediate,Math,2.2,Intermediate,122,Irregular,3,48,Average,0,2,2,2
+14,Female,Unemployed,High,Advanced,Advanced,Geography,6.1,Advanced,105,Irregular,3,81,Average,0,3,3,3
+9,Male,Engineer,Low,Intermediate,Intermediate,History,3.3,Beginner,91,Regular,4,78,Good,1,1,2,2
+6,Male,Farmer,Middle,Beginner,Beginner,Physics,2.0,Beginner,107,Regular,2,59,Poor,1,1,1,1
+14,Female,Government Employee,High,Intermediate,Beginner,Geography,0.9,Beginner,105,Irregular,3,66,Average,0,1,2,1
+8,Male,Business Owner,High,Beginner,Beginner,Geography,2.0,Beginner,99,Irregular,1,37,Very Poor,0,1,1,1
+13,Female,Business Owner,Middle,Beginner,Beginner,Math,1.9,Beginner,103,Regular,4,60,Good,1,1,1,1
+12,Male,Doctor,Middle,Intermediate,Intermediate,Geography,1.5,Intermediate,106,Regular,5,92,Excellent,1,2,2,2
+15,Male,Farmer,Middle,Intermediate,Advanced,History,2.7,Advanced,129,Regular,3,73,Average,1,3,2,3
+8,Male,Engineer,Low,Beginner,Intermediate,Physics,2.3,Beginner,129,Regular,3,95,Average,1,1,1,2
+10,Female,Government Employee,High,Beginner,Beginner,Chemistry,2.1,Beginner,65,Regular,4,68,Good,1,1,1,1
+8,Male,Other,High,Beginner,Beginner,English,0.1,Beginner,120,Irregular,2,44,Poor,0,1,1,1
+9,Male,Other,High,Beginner,Beginner,Computer Science,1.4,Intermediate,127,Regular,1,44,Very Poor,1,2,1,1
+11,Male,Engineer,Middle,Intermediate,Intermediate,Chemistry,3.8,Intermediate,124,Regular,5,100,Excellent,1,2,2,2
+17,Male,Teacher,High,Advanced,Advanced,Art,3.7,Advanced,71,Irregular,5,78,Excellent,0,3,3,3
+17,Male,Government Employee,Middle,Intermediate,Beginner,Art,0.7,Beginner,66,Irregular,3,28,Average,0,1,2,1
+16,Male,Other,High,Intermediate,Beginner,Biology,1.7,Intermediate,111,Irregular,5,64,Excellent,0,2,2,1
+8,Male,Doctor,Low,Beginner,Beginner,History,2.5,Beginner,92,Regular,4,59,Good,1,1,1,1
+15,Male,Farmer,High,Intermediate,Intermediate,Math,1.6,Beginner,136,Irregular,1,55,Very Poor,0,1,2,2
+12,Female,Doctor,Low,Beginner,Beginner,Geography,2.1,Beginner,87,Irregular,5,68,Excellent,0,1,1,1
+14,Female,Unemployed,Middle,Advanced,Advanced,History,4.1,Advanced,83,Regular,4,76,Good,1,3,3,3
+7,Male,Teacher,High,Beginner,Beginner,Art,1.0,Intermediate,134,Irregular,1,38,Very Poor,0,2,1,1
+11,Male,Unemployed,High,Intermediate,Intermediate,Chemistry,2.4,Intermediate,137,Regular,3,74,Average,1,2,2,2
+13,Male,Government Employee,Low,Beginner,Intermediate,Science,2.8,Beginner,113,Regular,2,72,Poor,1,1,1,2
+3,Female,Artist,High,Beginner,Beginner,Chemistry,1.9,Beginner,109,Regular,2,62,Poor,1,1,1,1
+17,Male,Engineer,High,Intermediate,Intermediate,Art,2.6,Intermediate,107,Irregular,3,66,Average,0,2,2,2
+9,Female,Other,Low,Intermediate,Intermediate,Biology,1.3,Intermediate,113,Regular,4,72,Good,1,2,2,2
+16,Male,Doctor,Low,Advanced,Advanced,English,6.0,Advanced,119,Irregular,3,79,Average,0,3,3,3
+14,Male,Artist,Low,Intermediate,Advanced,Biology,5.0,Advanced,99,Regular,4,90,Good,1,3,2,3
+3,Male,Engineer,Middle,Beginner,Beginner,Chemistry,1.4,Beginner,91,Irregular,3,75,Average,0,1,1,1
+10,Female,Government Employee,High,Beginner,Beginner,Geography,2.5,Beginner,138,Irregular,4,74,Good,0,1,1,1
+18,Female,Government Employee,High,Advanced,Advanced,Physics,5.5,Advanced,89,Regular,1,60,Very Poor,1,3,3,3
+12,Male,Unemployed,High,Beginner,Beginner,Physics,1.8,Intermediate,131,Irregular,1,39,Very Poor,0,2,1,1
+13,Female,Teacher,High,Intermediate,Intermediate,Math,2.7,Intermediate,121,Irregular,4,72,Good,0,2,2,2
+11,Male,Artist,Low,Intermediate,Intermediate,Computer Science,2.4,Intermediate,118,Regular,3,74,Average,1,2,2,2
+15,Female,Unemployed,Low,Advanced,Advanced,Math,4.5,Advanced,109,Regular,4,89,Good,1,3,3,3
+7,Female,Business Owner,Middle,Beginner,Beginner,Math,1.0,Beginner,115,Irregular,3,68,Average,0,1,1,1
+11,Male,Engineer,Low,Intermediate,Intermediate,Computer Science,2.0,Intermediate,81,Regular,3,68,Average,1,2,2,2
+17,Female,Government Employee,High,Intermediate,Advanced,Art,3.6,Advanced,98,Regular,1,46,Very Poor,1,3,2,3
+5,Female,Farmer,Middle,Beginner,Beginner,Science,1.5,Intermediate,97,Irregular,4,48,Good,0,2,1,1
+13,Female,Other,Middle,Intermediate,Intermediate,Chemistry,2.6,Intermediate,97,Irregular,1,33,Very Poor,0,2,2,2
+14,Female,Artist,High,Advanced,Advanced,Geography,5.5,Intermediate,109,Irregular,4,83,Good,0,2,3,3
+7,Male,Artist,Low,Beginner,Beginner,Science,3.1,Intermediate,133,Regular,4,81,Good,1,2,1,1
+11,Male,Government Employee,Low,Beginner,Intermediate,English,3.5,Intermediate,76,Regular,3,65,Average,1,2,1,2
+8,Female,Doctor,High,Intermediate,Beginner,Computer Science,1.1,Beginner,81,Regular,1,33,Very Poor,1,1,2,1
+11,Female,Artist,Middle,Intermediate,Intermediate,Science,0.6,Intermediate,106,Irregular,1,40,Very Poor,0,2,2,2
+7,Male,Farmer,High,Beginner,Beginner,Geography,2.8,Beginner,124,Irregular,5,74,Excellent,0,1,1,1
+5,Male,Engineer,Middle,Beginner,Beginner,Biology,1.9,Intermediate,127,Irregular,5,95,Excellent,0,2,1,1
+5,Male,Other,Low,Beginner,Beginner,Science,2.7,Beginner,81,Irregular,3,57,Average,0,1,1,1
+9,Female,Business Owner,Low,Beginner,Intermediate,Physics,1.7,Beginner,112,Regular,4,88,Good,1,1,1,2
+8,Female,Farmer,Middle,Beginner,Intermediate,English,1.5,Advanced,109,Irregular,2,40,Poor,0,3,1,2
+7,Female,Doctor,Low,Beginner,Beginner,Art,2.9,Beginner,81,Irregular,3,59,Average,0,1,1,1
+18,Female,Doctor,Low,Intermediate,Beginner,Chemistry,1.2,Intermediate,87,Regular,5,63,Excellent,1,2,2,1
+17,Male,Artist,Middle,Intermediate,Advanced,Math,2.8,Advanced,89,Irregular,1,48,Very Poor,0,3,2,3
+9,Male,Farmer,High,Intermediate,Beginner,Geography,1.5,Beginner,123,Irregular,2,44,Poor,0,1,2,1
+13,Male,Other,Middle,Intermediate,Intermediate,English,2.8,Advanced,84,Irregular,5,81,Excellent,0,3,2,2
+10,Male,Unemployed,Low,Intermediate,Beginner,Geography,1.6,Intermediate,140,Irregular,3,60,Average,0,2,2,1
+18,Male,Artist,Middle,Intermediate,Intermediate,Geography,3.1,Beginner,120,Irregular,1,50,Very Poor,0,1,2,2
+17,Female,Doctor,Middle,Advanced,Advanced,History,2.2,Advanced,87,Irregular,2,55,Poor,0,3,3,3
+16,Female,Unemployed,High,Advanced,Intermediate,Science,2.1,Intermediate,114,Regular,4,87,Good,1,2,3,2
+5,Female,Farmer,Middle,Beginner,Beginner,History,0.4,Beginner,113,Regular,1,28,Very Poor,1,1,1,1
+11,Female,Artist,High,Intermediate,Intermediate,Biology,2.7,Beginner,83,Regular,4,60,Good,1,1,2,2
+3,Male,Business Owner,High,Beginner,Beginner,Math,2.2,Beginner,130,Irregular,2,46,Poor,0,1,1,1
+10,Female,Business Owner,High,Beginner,Beginner,Math,2.1,Intermediate,118,Regular,1,48,Very Poor,1,2,1,1
+15,Female,Other,High,Advanced,Advanced,Geography,2.6,Advanced,133,Regular,5,93,Excellent,1,3,3,3
+3,Male,Doctor,High,Beginner,Beginner,English,1.4,Intermediate,84,Regular,4,68,Good,1,2,1,1
+18,Female,Artist,Low,Intermediate,Intermediate,Computer Science,2.9,Advanced,118,Irregular,3,77,Average,0,3,2,2
+7,Male,Other,Low,Beginner,Beginner,Art,1.7,Beginner,108,Regular,3,57,Average,1,1,1,1
+15,Female,Other,Low,Intermediate,Intermediate,Chemistry,1.9,Beginner,91,Irregular,1,56,Very Poor,0,1,2,2
+7,Male,Farmer,High,Beginner,Beginner,Computer Science,0.9,Beginner,97,Irregular,5,51,Excellent,0,1,1,1
+7,Female,Unemployed,Middle,Beginner,Beginner,Physics,0.3,Intermediate,109,Irregular,1,36,Very Poor,0,2,1,1
+10,Male,Other,High,Beginner,Beginner,Math,2.5,Beginner,128,Irregular,1,45,Very Poor,0,1,1,1
+7,Female,Business Owner,High,Beginner,Beginner,Science,2.1,Intermediate,101,Irregular,5,67,Excellent,0,2,1,1
+14,Female,Business Owner,High,Intermediate,Intermediate,Science,0.9,Beginner,104,Irregular,1,35,Very Poor,0,1,2,2
+8,Male,Unemployed,Low,Beginner,Beginner,History,2.2,Beginner,77,Irregular,1,31,Very Poor,0,1,1,1
+4,Female,Doctor,Middle,Beginner,Beginner,History,2.5,Beginner,85,Regular,2,52,Poor,1,1,1,1
+8,Female,Artist,High,Beginner,Beginner,Physics,1.7,Beginner,77,Regular,1,43,Very Poor,1,1,1,1
+5,Male,Engineer,Low,Beginner,Beginner,Biology,0.1,Beginner,88,Regular,4,41,Good,1,1,1,1
+8,Female,Business Owner,High,Intermediate,Intermediate,English,1.6,Intermediate,109,Irregular,5,75,Excellent,0,2,2,2
+8,Male,Artist,Low,Beginner,Beginner,Computer Science,1.9,Beginner,109,Irregular,3,62,Average,0,1,1,1
+15,Female,Artist,High,Advanced,Advanced,Art,5.8,Intermediate,88,Regular,3,92,Average,1,2,3,3
+10,Female,Farmer,Middle,Intermediate,Advanced,Computer Science,4.1,Advanced,130,Irregular,2,61,Poor,0,3,2,3
+16,Male,Artist,High,Intermediate,Intermediate,Math,2.0,Beginner,87,Irregular,5,70,Excellent,0,1,2,2
+3,Male,Farmer,Middle,Beginner,Beginner,Biology,2.4,Beginner,113,Irregular,4,67,Good,0,1,1,1
+6,Male,Unemployed,Middle,Beginner,Beginner,Art,0.6,Beginner,124,Irregular,1,47,Very Poor,0,1,1,1
+16,Female,Business Owner,High,Intermediate,Intermediate,Geography,1.2,Beginner,120,Regular,2,56,Poor,1,1,2,2
+6,Male,Unemployed,High,Beginner,Beginner,Physics,2.4,Beginner,127,Regular,2,74,Poor,1,1,1,1
+12,Male,Artist,High,Beginner,Beginner,Biology,0.4,Beginner,115,Regular,5,78,Excellent,1,1,1,1
+3,Male,Doctor,High,Beginner,Beginner,Science,0.3,Intermediate,129,Irregular,2,43,Poor,0,2,1,1
+18,Male,Business Owner,High,Intermediate,Intermediate,Biology,2.9,Intermediate,81,Irregular,3,70,Average,0,2,2,2
+6,Male,Artist,Low,Beginner,Beginner,Math,1.9,Beginner,129,Irregular,4,69,Good,0,1,1,1
+7,Male,Artist,Low,Beginner,Beginner,Chemistry,2.1,Beginner,92,Irregular,3,39,Average,0,1,1,1
+15,Male,Artist,High,Intermediate,Intermediate,Biology,4.2,Intermediate,107,Irregular,2,53,Poor,0,2,2,2
+16,Male,Artist,Middle,Intermediate,Intermediate,Art,2.3,Beginner,94,Irregular,2,43,Poor,0,1,2,2
+11,Male,Teacher,Low,Intermediate,Advanced,Art,4.4,Advanced,130,Irregular,3,92,Average,0,3,2,3
+12,Female,Farmer,Low,Intermediate,Intermediate,Physics,2.5,Intermediate,124,Regular,3,89,Average,1,2,2,2
+5,Female,Farmer,High,Beginner,Intermediate,Math,2.5,Intermediate,112,Irregular,3,79,Average,0,2,1,2
+13,Male,Engineer,High,Intermediate,Beginner,Science,2.2,Beginner,98,Irregular,2,62,Poor,0,1,2,1
+9,Male,Engineer,Middle,Intermediate,Advanced,Geography,5.8,Advanced,130,Irregular,4,100,Good,0,3,2,3
+3,Female,Doctor,Low,Beginner,Beginner,Science,1.3,Beginner,80,Regular,4,54,Good,1,1,1,1
+18,Male,Engineer,High,Advanced,Advanced,Physics,4.5,Advanced,123,Regular,3,94,Average,1,3,3,3
+8,Female,Engineer,Low,Intermediate,Intermediate,Math,2.4,Intermediate,130,Irregular,1,44,Very Poor,0,2,2,2
+9,Male,Doctor,High,Beginner,Intermediate,Geography,3.5,Advanced,80,Regular,1,60,Very Poor,1,3,1,2
+11,Male,Unemployed,Middle,Beginner,Intermediate,Science,4.9,Intermediate,76,Regular,3,75,Average,1,2,1,2
+12,Male,Doctor,High,Intermediate,Advanced,History,3.3,Advanced,111,Irregular,3,69,Average,0,3,2,3
+18,Male,Business Owner,Low,Advanced,Advanced,Physics,5.3,Intermediate,85,Irregular,5,92,Excellent,0,2,3,3
+3,Female,Doctor,Middle,Beginner,Beginner,Computer Science,1.2,Intermediate,112,Regular,2,57,Poor,1,2,1,1
+10,Male,Government Employee,High,Intermediate,Intermediate,Biology,4.0,Intermediate,116,Regular,3,73,Average,1,2,2,2
+17,Male,Farmer,Low,Advanced,Advanced,Math,5.2,Advanced,129,Irregular,5,100,Excellent,0,3,3,3
+12,Female,Government Employee,Middle,Intermediate,Advanced,Biology,4.6,Advanced,128,Regular,1,81,Very Poor,1,3,2,3
+8,Male,Business Owner,High,Intermediate,Intermediate,Art,2.9,Beginner,117,Irregular,2,62,Poor,0,1,2,2
+15,Female,Teacher,Low,Intermediate,Intermediate,English,2.7,Intermediate,72,Irregular,5,64,Excellent,0,2,2,2
+11,Female,Business Owner,High,Intermediate,Intermediate,Geography,1.9,Advanced,126,Regular,2,72,Poor,1,3,2,2
+15,Male,Teacher,Middle,Advanced,Advanced,Geography,2.8,Intermediate,106,Regular,3,87,Average,1,2,3,3
+3,Female,Artist,Low,Beginner,Beginner,History,1.7,Beginner,121,Regular,1,45,Very Poor,1,1,1,1
+11,Male,Doctor,Low,Intermediate,Intermediate,Chemistry,2.8,Intermediate,95,Irregular,1,28,Very Poor,0,2,2,2
+5,Female,Business Owner,High,Beginner,Beginner,Science,1.6,Beginner,110,Regular,4,77,Good,1,1,1,1
+16,Male,Teacher,Middle,Intermediate,Intermediate,Physics,1.4,Advanced,128,Irregular,1,52,Very Poor,0,3,2,2
+16,Male,Business Owner,High,Intermediate,Intermediate,Art,2.6,Advanced,75,Irregular,1,33,Very Poor,0,3,2,2
+11,Female,Other,Middle,Intermediate,Intermediate,Biology,1.8,Intermediate,83,Irregular,2,52,Poor,0,2,2,2
+13,Male,Farmer,Middle,Intermediate,Advanced,Chemistry,4.3,Advanced,80,Irregular,2,78,Poor,0,3,2,3
+5,Male,Farmer,High,Beginner,Beginner,Computer Science,0.2,Intermediate,97,Regular,2,27,Poor,1,2,1,1
+3,Male,Engineer,High,Beginner,Beginner,English,2.5,Beginner,119,Irregular,2,54,Poor,0,1,1,1
+7,Female,Other,Middle,Beginner,Beginner,Art,1.3,Beginner,77,Regular,5,73,Excellent,1,1,1,1
+10,Female,Teacher,High,Intermediate,Intermediate,Art,3.4,Advanced,89,Regular,1,51,Very Poor,1,3,2,2
+13,Female,Farmer,Low,Beginner,Beginner,Chemistry,0.1,Intermediate,129,Regular,1,36,Very Poor,1,2,1,1
+16,Female,Other,Low,Advanced,Advanced,Science,3.9,Intermediate,65,Regular,4,82,Good,1,2,3,3
+8,Male,Government Employee,Low,Beginner,Beginner,History,0.6,Beginner,84,Irregular,5,53,Excellent,0,1,1,1
+13,Female,Engineer,High,Beginner,Beginner,Computer Science,1.2,Intermediate,117,Regular,1,40,Very Poor,1,2,1,1
+3,Male,Unemployed,Middle,Beginner,Beginner,Science,1.9,Intermediate,91,Irregular,4,65,Good,0,2,1,1
+10,Male,Artist,High,Intermediate,Intermediate,Biology,4.0,Beginner,80,Regular,1,41,Very Poor,1,1,2,2
+5,Female,Farmer,High,Beginner,Beginner,English,1.9,Beginner,75,Regular,5,57,Excellent,1,1,1,1
+8,Female,Farmer,Low,Intermediate,Intermediate,Biology,2.1,Beginner,126,Regular,5,81,Excellent,1,1,2,2
+18,Male,Teacher,High,Intermediate,Intermediate,Biology,2.3,Intermediate,94,Regular,3,58,Average,1,2,2,2
+3,Male,Teacher,Low,Beginner,Beginner,Art,1.5,Beginner,101,Irregular,2,54,Poor,0,1,1,1
+9,Male,Teacher,Middle,Intermediate,Intermediate,Art,3.0,Intermediate,83,Irregular,1,45,Very Poor,0,2,2,2
+13,Female,Doctor,High,Intermediate,Beginner,Art,0.7,Intermediate,107,Regular,5,68,Excellent,1,2,2,1
+13,Female,Doctor,High,Beginner,Beginner,Chemistry,2.3,Beginner,70,Irregular,5,56,Excellent,0,1,1,1
+15,Male,Doctor,High,Advanced,Advanced,Physics,2.8,Advanced,75,Regular,4,96,Good,1,3,3,3
+9,Male,Farmer,Middle,Beginner,Beginner,Geography,0.4,Intermediate,88,Regular,4,67,Good,1,2,1,1
+6,Female,Farmer,Middle,Beginner,Beginner,Chemistry,2.6,Intermediate,72,Regular,3,58,Average,1,2,1,1
+5,Female,Farmer,Middle,Beginner,Beginner,History,1.6,Beginner,126,Irregular,2,64,Poor,0,1,1,1
+3,Female,Engineer,Middle,Beginner,Beginner,Math,1.8,Beginner,88,Irregular,1,45,Very Poor,0,1,1,1
+8,Male,Teacher,Middle,Beginner,Beginner,English,0.8,Beginner,79,Regular,3,58,Average,1,1,1,1
+16,Male,Other,Low,Intermediate,Intermediate,History,1.4,Intermediate,140,Regular,2,67,Poor,1,2,2,2
+3,Male,Other,Middle,Beginner,Intermediate,Biology,3.9,Beginner,85,Regular,1,60,Very Poor,1,1,1,2
+12,Female,Artist,Middle,Beginner,Beginner,Math,0.1,Beginner,90,Regular,4,46,Good,1,1,1,1
+15,Male,Government Employee,Middle,Intermediate,Intermediate,Math,1.9,Intermediate,114,Regular,1,47,Very Poor,1,2,2,2
+10,Male,Business Owner,Middle,Beginner,Intermediate,Science,2.3,Advanced,89,Irregular,3,62,Average,0,3,1,2
+14,Male,Doctor,Low,Intermediate,Beginner,Biology,0.4,Beginner,118,Regular,1,27,Very Poor,1,1,2,1
+17,Male,Doctor,Middle,Advanced,Advanced,History,2.1,Intermediate,98,Irregular,1,44,Very Poor,0,2,3,3
+17,Female,Business Owner,High,Intermediate,Intermediate,History,3.3,Advanced,135,Irregular,1,67,Very Poor,0,3,2,2
+16,Female,Unemployed,Low,Advanced,Intermediate,Art,1.7,Beginner,123,Irregular,4,76,Good,0,1,3,2
+8,Female,Government Employee,Middle,Intermediate,Beginner,Chemistry,0.4,Beginner,77,Regular,4,48,Good,1,1,2,1
+10,Male,Artist,Middle,Beginner,Beginner,History,2.6,Beginner,85,Irregular,5,69,Excellent,0,1,1,1
+17,Female,Engineer,High,Advanced,Advanced,Geography,4.8,Advanced,102,Regular,5,100,Excellent,1,3,3,3
+7,Female,Doctor,Middle,Beginner,Intermediate,Geography,2.2,Beginner,111,Irregular,2,52,Poor,0,1,1,2
+11,Female,Unemployed,High,Intermediate,Advanced,Art,4.0,Intermediate,126,Regular,1,70,Very Poor,1,2,2,3
+13,Male,Engineer,Low,Intermediate,Advanced,Geography,2.6,Advanced,115,Regular,4,81,Good,1,3,2,3
+12,Female,Artist,Low,Beginner,Beginner,English,1.1,Intermediate,89,Regular,5,74,Excellent,1,2,1,1
+4,Male,Government Employee,Low,Beginner,Intermediate,Geography,0.7,Advanced,89,Irregular,2,44,Poor,0,3,1,2
+13,Male,Other,Middle,Intermediate,Intermediate,Biology,2.1,Intermediate,123,Regular,3,69,Average,1,2,2,2
+11,Male,Farmer,Low,Intermediate,Beginner,Art,2.3,Beginner,79,Regular,5,67,Excellent,1,1,2,1
+15,Female,Farmer,Middle,Advanced,Advanced,Computer Science,3.3,Advanced,118,Irregular,2,66,Poor,0,3,3,3
+9,Female,Artist,Low,Intermediate,Advanced,History,1.7,Advanced,99,Regular,4,77,Good,1,3,2,3
+6,Male,Engineer,Middle,Beginner,Intermediate,Chemistry,3.4,Intermediate,106,Regular,4,80,Good,1,2,1,2
+13,Male,Business Owner,Middle,Beginner,Intermediate,Geography,3.1,Advanced,79,Regular,5,78,Excellent,1,3,1,2
+9,Female,Doctor,High,Beginner,Beginner,English,0.6,Beginner,79,Regular,1,34,Very Poor,1,1,1,1
+15,Male,Doctor,Low,Intermediate,Advanced,Computer Science,2.7,Advanced,102,Irregular,4,69,Good,0,3,2,3
+8,Female,Government Employee,Low,Intermediate,Intermediate,Computer Science,2.3,Advanced,104,Irregular,2,46,Poor,0,3,2,2
+15,Male,Teacher,Middle,Advanced,Advanced,Computer Science,3.1,Advanced,104,Regular,2,59,Poor,1,3,3,3
+13,Female,Government Employee,Low,Intermediate,Beginner,Geography,1.9,Beginner,108,Regular,3,73,Average,1,1,2,1
+13,Female,Government Employee,Middle,Beginner,Beginner,Biology,0.7,Beginner,65,Irregular,5,71,Excellent,0,1,1,1
+18,Female,Teacher,Middle,Intermediate,Intermediate,Art,3.5,Beginner,130,Irregular,5,93,Excellent,0,1,2,2
+5,Female,Doctor,Low,Beginner,Beginner,Math,1.0,Beginner,116,Regular,5,77,Excellent,1,1,1,1
+7,Female,Government Employee,High,Beginner,Beginner,Math,0.1,Beginner,99,Regular,2,26,Poor,1,1,1,1
+12,Male,Business Owner,High,Intermediate,Intermediate,Art,3.0,Advanced,89,Irregular,1,37,Very Poor,0,3,2,2
+4,Male,Doctor,Low,Beginner,Beginner,Geography,1.1,Intermediate,101,Irregular,1,27,Very Poor,0,2,1,1
+15,Male,Other,Middle,Advanced,Advanced,Science,1.8,Advanced,66,Regular,2,52,Poor,1,3,3,3
+14,Male,Engineer,Middle,Intermediate,Advanced,History,4.4,Advanced,78,Regular,5,84,Excellent,1,3,2,3
+11,Female,Unemployed,Middle,Beginner,Beginner,History,1.7,Beginner,137,Regular,4,76,Good,1,1,1,1
+8,Male,Teacher,High,Beginner,Beginner,Art,0.4,Intermediate,121,Regular,5,75,Excellent,1,2,1,1
+5,Male,Government Employee,Low,Beginner,Intermediate,Art,4.2,Intermediate,87,Regular,5,77,Excellent,1,2,1,2
+17,Female,Other,High,Advanced,Advanced,History,2.4,Intermediate,76,Irregular,2,56,Poor,0,2,3,3
+11,Female,Artist,High,Beginner,Intermediate,Chemistry,1.0,Advanced,93,Irregular,5,67,Excellent,0,3,1,2
+18,Male,Teacher,High,Intermediate,Advanced,Chemistry,4.3,Intermediate,135,Regular,5,81,Excellent,1,2,2,3
+5,Female,Farmer,High,Beginner,Beginner,Physics,1.0,Intermediate,71,Regular,1,14,Very Poor,1,2,1,1
+16,Female,Business Owner,Middle,Advanced,Advanced,Art,4.5,Advanced,81,Irregular,4,79,Good,0,3,3,3
+8,Female,Government Employee,High,Beginner,Beginner,Physics,1.1,Beginner,84,Irregular,3,32,Average,0,1,1,1
+18,Female,Teacher,Middle,Advanced,Intermediate,Geography,2.5,Beginner,128,Regular,4,73,Good,1,1,3,2
+5,Male,Government Employee,High,Beginner,Beginner,Geography,1.5,Intermediate,113,Irregular,1,39,Very Poor,0,2,1,1
+6,Female,Unemployed,Middle,Beginner,Beginner,History,1.6,Beginner,85,Irregular,5,55,Excellent,0,1,1,1
+14,Male,Engineer,Middle,Intermediate,Intermediate,English,2.5,Intermediate,77,Regular,5,79,Excellent,1,2,2,2
+14,Female,Doctor,Middle,Advanced,Advanced,Art,4.1,Advanced,98,Regular,2,76,Poor,1,3,3,3
+5,Male,Teacher,Low,Beginner,Beginner,Art,1.0,Beginner,121,Irregular,2,53,Poor,0,1,1,1
+10,Male,Doctor,Low,Beginner,Intermediate,Science,4.4,Advanced,104,Irregular,3,63,Average,0,3,1,2
+9,Female,Engineer,Low,Beginner,Beginner,English,2.6,Beginner,98,Regular,4,63,Good,1,1,1,1
+5,Male,Teacher,Low,Beginner,Beginner,Physics,1.7,Beginner,106,Irregular,1,31,Very Poor,0,1,1,1
+4,Male,Engineer,High,Beginner,Beginner,History,2.5,Beginner,103,Regular,2,56,Poor,1,1,1,1
+17,Female,Government Employee,Low,Advanced,Advanced,English,6.1,Advanced,104,Irregular,2,86,Poor,0,3,3,3
+18,Female,Farmer,Low,Advanced,Advanced,Geography,3.6,Advanced,96,Irregular,1,58,Very Poor,0,3,3,3
+3,Male,Other,Middle,Beginner,Intermediate,English,0.7,Advanced,105,Regular,1,45,Very Poor,1,3,1,2
+3,Male,Doctor,High,Beginner,Beginner,Art,1.9,Intermediate,119,Irregular,1,53,Very Poor,0,2,1,1
+18,Female,Business Owner,High,Advanced,Advanced,Geography,0.8,Advanced,129,Regular,5,84,Excellent,1,3,3,3
+7,Female,Engineer,High,Beginner,Beginner,Geography,0.4,Beginner,106,Regular,1,49,Very Poor,1,1,1,1
+7,Male,Doctor,Low,Beginner,Beginner,Physics,1.9,Beginner,105,Regular,3,65,Average,1,1,1,1
+14,Male,Teacher,Low,Intermediate,Advanced,Physics,2.1,Advanced,122,Regular,1,69,Very Poor,1,3,2,3
+15,Male,Teacher,Middle,Intermediate,Beginner,Art,0.9,Beginner,112,Irregular,1,32,Very Poor,0,1,2,1
+8,Male,Teacher,Middle,Beginner,Beginner,Art,0.6,Intermediate,102,Irregular,2,44,Poor,0,2,1,1
+16,Female,Other,High,Intermediate,Intermediate,Art,4.0,Intermediate,121,Irregular,5,93,Excellent,0,2,2,2
+4,Female,Unemployed,Low,Beginner,Beginner,Art,1.4,Beginner,109,Regular,3,68,Average,1,1,1,1
+3,Female,Government Employee,Middle,Beginner,Intermediate,Computer Science,1.8,Beginner,70,Irregular,4,41,Good,0,1,1,2
+12,Female,Other,High,Intermediate,Beginner,Physics,0.9,Beginner,112,Regular,2,58,Poor,1,1,2,1
+8,Male,Teacher,High,Intermediate,Advanced,Biology,1.5,Advanced,136,Regular,2,85,Poor,1,3,2,3
+14,Male,Unemployed,High,Advanced,Advanced,Chemistry,2.5,Advanced,95,Irregular,3,62,Average,0,3,3,3
+10,Female,Other,Middle,Intermediate,Beginner,Computer Science,1.0,Beginner,95,Irregular,4,70,Good,0,1,2,1
+7,Female,Farmer,High,Beginner,Beginner,Geography,0.8,Beginner,100,Regular,1,51,Very Poor,1,1,1,1
+7,Male,Engineer,High,Beginner,Beginner,Chemistry,1.7,Beginner,91,Irregular,1,49,Very Poor,0,1,1,1
+7,Female,Teacher,Low,Beginner,Beginner,Math,2.1,Intermediate,86,Irregular,1,48,Very Poor,0,2,1,1
+3,Male,Teacher,Low,Beginner,Beginner,Science,0.5,Intermediate,77,Regular,2,29,Poor,1,2,1,1
+10,Female,Government Employee,Middle,Intermediate,Advanced,Math,2.7,Advanced,129,Irregular,2,42,Poor,0,3,2,3
+14,Male,Business Owner,Low,Intermediate,Advanced,Geography,4.4,Advanced,76,Irregular,3,68,Average,0,3,2,3
+13,Male,Engineer,Middle,Intermediate,Intermediate,Geography,2.3,Beginner,105,Regular,4,81,Good,1,1,2,2
+10,Male,Artist,High,Intermediate,Beginner,Science,1.6,Intermediate,122,Irregular,5,79,Excellent,0,2,2,1
+4,Male,Teacher,Middle,Beginner,Beginner,English,1.0,Beginner,89,Irregular,1,23,Very Poor,0,1,1,1
+12,Female,Artist,Low,Intermediate,Intermediate,English,1.5,Intermediate,90,Irregular,1,34,Very Poor,0,2,2,2
+10,Male,Doctor,Middle,Beginner,Beginner,Art,3.4,Intermediate,123,Regular,3,79,Average,1,2,1,1
+15,Male,Teacher,High,Advanced,Advanced,English,1.9,Advanced,113,Regular,4,79,Good,1,3,3,3
+4,Female,Unemployed,Low,Beginner,Beginner,Chemistry,0.1,Beginner,106,Regular,5,67,Excellent,1,1,1,1
+4,Male,Farmer,Low,Beginner,Beginner,Geography,1.8,Beginner,131,Regular,3,84,Average,1,1,1,1
+8,Female,Other,High,Beginner,Intermediate,Math,3.0,Intermediate,81,Regular,2,53,Poor,1,2,1,2
+12,Female,Teacher,Low,Intermediate,Intermediate,English,3.7,Intermediate,113,Regular,5,100,Excellent,1,2,2,2
+11,Male,Doctor,Middle,Intermediate,Intermediate,Geography,2.9,Advanced,116,Regular,1,50,Very Poor,1,3,2,2
+15,Male,Unemployed,Low,Intermediate,Beginner,Math,2.3,Beginner,128,Regular,4,90,Good,1,1,2,1
+15,Male,Artist,Low,Intermediate,Intermediate,Biology,0.4,Intermediate,104,Irregular,4,81,Good,0,2,2,2
+14,Male,Other,Middle,Intermediate,Advanced,Math,5.2,Advanced,121,Regular,5,100,Excellent,1,3,2,3
+9,Male,Artist,Low,Beginner,Beginner,Physics,2.0,Beginner,98,Regular,1,31,Very Poor,1,1,1,1
+14,Female,Teacher,High,Advanced,Advanced,Computer Science,2.9,Advanced,78,Irregular,5,89,Excellent,0,3,3,3
+7,Female,Teacher,High,Beginner,Beginner,Science,1.9,Intermediate,95,Regular,3,64,Average,1,2,1,1
+11,Female,Government Employee,Middle,Beginner,Beginner,History,0.6,Intermediate,81,Irregular,5,63,Excellent,0,2,1,1
+4,Female,Other,Middle,Beginner,Beginner,Art,1.6,Intermediate,99,Irregular,2,57,Poor,0,2,1,1
+9,Female,Unemployed,Middle,Intermediate,Beginner,Geography,1.6,Beginner,111,Irregular,5,64,Excellent,0,1,2,1
+7,Female,Engineer,Low,Beginner,Intermediate,Physics,1.5,Intermediate,133,Irregular,4,82,Good,0,2,1,2
+18,Male,Doctor,Middle,Intermediate,Beginner,Computer Science,2.8,Beginner,86,Irregular,3,53,Average,0,1,2,1
+5,Male,Teacher,Low,Beginner,Beginner,Geography,2.4,Beginner,85,Regular,4,73,Good,1,1,1,1
+17,Male,Doctor,Low,Intermediate,Advanced,Math,6.2,Advanced,135,Irregular,5,100,Excellent,0,3,2,3
+7,Female,Farmer,High,Beginner,Beginner,Math,1.8,Beginner,102,Irregular,4,55,Good,0,1,1,1
+7,Male,Government Employee,Middle,Beginner,Beginner,Computer Science,1.7,Intermediate,127,Regular,3,68,Average,1,2,1,1
+6,Female,Doctor,Middle,Beginner,Beginner,Art,1.5,Intermediate,107,Irregular,3,54,Average,0,2,1,1
+15,Male,Artist,Middle,Intermediate,Advanced,Science,5.5,Advanced,77,Regular,4,88,Good,1,3,2,3
+10,Male,Teacher,High,Beginner,Intermediate,History,3.2,Intermediate,106,Irregular,5,56,Excellent,0,2,1,2
+18,Male,Teacher,High,Advanced,Advanced,Art,4.3,Intermediate,107,Irregular,5,93,Excellent,0,2,3,3
+9,Female,Engineer,Low,Intermediate,Advanced,Geography,4.4,Advanced,134,Regular,4,100,Good,1,3,2,3
+14,Female,Farmer,Middle,Advanced,Advanced,Math,3.8,Intermediate,104,Irregular,1,58,Very Poor,0,2,3,3
+6,Female,Business Owner,High,Beginner,Intermediate,Physics,1.6,Beginner,117,Irregular,2,67,Poor,0,1,1,2
+8,Female,Unemployed,High,Beginner,Beginner,Physics,1.7,Beginner,118,Irregular,5,83,Excellent,0,1,1,1
+7,Male,Business Owner,Middle,Beginner,Intermediate,Biology,2.3,Intermediate,110,Irregular,2,47,Poor,0,2,1,2
+7,Female,Farmer,High,Beginner,Beginner,Biology,0.1,Beginner,110,Regular,2,30,Poor,1,1,1,1
+14,Male,Artist,Middle,Advanced,Intermediate,English,1.6,Advanced,103,Regular,2,53,Poor,1,3,3,2
+12,Male,Government Employee,High,Beginner,Beginner,Biology,2.1,Intermediate,97,Regular,3,78,Average,1,2,1,1
+3,Male,Engineer,Low,Beginner,Beginner,Geography,1.4,Beginner,107,Irregular,2,55,Poor,0,1,1,1
+9,Male,Engineer,Low,Beginner,Intermediate,Physics,3.2,Beginner,89,Regular,3,70,Average,1,1,1,2
+12,Female,Government Employee,Low,Beginner,Beginner,Chemistry,0.8,Beginner,110,Irregular,2,31,Poor,0,1,1,1
+7,Female,Artist,Low,Beginner,Beginner,Physics,0.1,Beginner,115,Regular,2,44,Poor,1,1,1,1
+16,Female,Teacher,Low,Advanced,Advanced,Computer Science,3.7,Advanced,99,Regular,2,68,Poor,1,3,3,3
+17,Male,Doctor,Low,Intermediate,Intermediate,Biology,2.4,Advanced,76,Regular,3,74,Average,1,3,2,2
+5,Female,Government Employee,Middle,Beginner,Beginner,Chemistry,0.1,Beginner,95,Irregular,3,36,Average,0,1,1,1
+18,Female,Government Employee,Middle,Advanced,Advanced,Biology,3.5,Advanced,72,Irregular,5,65,Excellent,0,3,3,3
+18,Male,Doctor,Middle,Intermediate,Intermediate,Biology,0.4,Intermediate,103,Irregular,2,47,Poor,0,2,2,2
+7,Female,Farmer,Middle,Beginner,Beginner,Biology,1.3,Beginner,118,Regular,4,64,Good,1,1,1,1
+6,Female,Business Owner,High,Beginner,Intermediate,Science,3.8,Beginner,97,Regular,1,65,Very Poor,1,1,1,2
+10,Male,Engineer,Middle,Intermediate,Intermediate,Chemistry,3.1,Beginner,89,Regular,4,76,Good,1,1,2,2
+14,Female,Unemployed,Middle,Intermediate,Beginner,English,2.1,Beginner,102,Regular,4,72,Good,1,1,2,1
+12,Female,Government Employee,Middle,Intermediate,Intermediate,Computer Science,1.6,Advanced,113,Irregular,4,66,Good,0,3,2,2
+13,Female,Artist,Low,Beginner,Intermediate,Computer Science,2.5,Advanced,71,Irregular,3,66,Average,0,3,1,2
+16,Male,Unemployed,High,Intermediate,Beginner,Geography,2.2,Beginner,138,Regular,1,53,Very Poor,1,1,2,1
+17,Female,Farmer,Middle,Intermediate,Intermediate,Math,2.7,Advanced,73,Regular,3,68,Average,1,3,2,2
+4,Male,Government Employee,Low,Beginner,Beginner,Chemistry,2.4,Beginner,101,Irregular,4,62,Good,0,1,1,1
+16,Male,Teacher,High,Advanced,Advanced,History,4.0,Intermediate,72,Regular,4,84,Good,1,2,3,3
+16,Male,Doctor,Low,Intermediate,Advanced,History,2.3,Advanced,115,Regular,4,90,Good,1,3,2,3
+7,Male,Other,Low,Beginner,Beginner,Math,2.6,Beginner,107,Irregular,2,56,Poor,0,1,1,1
+4,Male,Other,High,Beginner,Beginner,Geography,0.6,Beginner,88,Regular,1,40,Very Poor,1,1,1,1
+10,Male,Doctor,High,Intermediate,Intermediate,English,4.0,Intermediate,131,Irregular,5,88,Excellent,0,2,2,2
+4,Male,Other,Low,Beginner,Beginner,Physics,1.1,Beginner,74,Irregular,5,55,Excellent,0,1,1,1
+18,Female,Engineer,High,Advanced,Advanced,Art,6.0,Intermediate,101,Irregular,5,82,Excellent,0,2,3,3
+7,Male,Business Owner,High,Beginner,Intermediate,Science,1.2,Intermediate,118,Regular,4,87,Good,1,2,1,2
+13,Female,Engineer,Middle,Beginner,Beginner,Science,2.0,Intermediate,99,Regular,3,64,Average,1,2,1,1
+14,Female,Business Owner,High,Intermediate,Intermediate,Chemistry,3.2,Advanced,127,Irregular,5,94,Excellent,0,3,2,2
+14,Female,Business Owner,Middle,Intermediate,Intermediate,Chemistry,3.6,Beginner,101,Regular,5,89,Excellent,1,1,2,2
+14,Female,Farmer,Low,Intermediate,Intermediate,Math,2.4,Advanced,98,Irregular,2,56,Poor,0,3,2,2
+10,Female,Artist,High,Intermediate,Intermediate,History,2.1,Intermediate,100,Irregular,2,55,Poor,0,2,2,2
+15,Male,Engineer,High,Intermediate,Intermediate,Biology,2.8,Beginner,140,Regular,4,96,Good,1,1,2,2
+3,Male,Unemployed,Low,Beginner,Intermediate,Physics,3.5,Advanced,108,Irregular,2,72,Poor,0,3,1,2
+5,Male,Government Employee,High,Beginner,Beginner,Biology,1.3,Intermediate,71,Regular,5,55,Excellent,1,2,1,1
+17,Female,Other,High,Advanced,Advanced,Math,2.4,Advanced,121,Regular,4,77,Good,1,3,3,3
+9,Female,Business Owner,Middle,Beginner,Intermediate,History,2.8,Advanced,91,Regular,1,55,Very Poor,1,3,1,2
+7,Female,Teacher,Middle,Beginner,Beginner,Computer Science,1.2,Intermediate,131,Regular,3,63,Average,1,2,1,1
+13,Female,Other,High,Intermediate,Intermediate,Chemistry,0.1,Intermediate,118,Regular,5,57,Excellent,1,2,2,2
+9,Female,Government Employee,Middle,Beginner,Beginner,Chemistry,1.5,Beginner,79,Regular,1,35,Very Poor,1,1,1,1
+17,Male,Teacher,High,Advanced,Advanced,English,6.4,Intermediate,89,Irregular,5,83,Excellent,0,2,3,3
+17,Female,Teacher,High,Intermediate,Intermediate,Biology,2.0,Advanced,129,Regular,2,66,Poor,1,3,2,2
+14,Female,Engineer,Low,Intermediate,Beginner,History,1.2,Beginner,83,Regular,1,24,Very Poor,1,1,2,1
+6,Female,Engineer,Middle,Beginner,Beginner,English,0.7,Intermediate,102,Regular,2,43,Poor,1,2,1,1
+17,Female,Government Employee,Low,Intermediate,Intermediate,Chemistry,0.7,Advanced,81,Regular,1,31,Very Poor,1,3,2,2
+15,Male,Farmer,Low,Intermediate,Beginner,Computer Science,2.1,Beginner,85,Irregular,2,49,Poor,0,1,2,1
+17,Male,Engineer,Middle,Intermediate,Beginner,Chemistry,0.5,Intermediate,93,Irregular,1,19,Very Poor,0,2,2,1
+11,Female,Business Owner,Middle,Intermediate,Intermediate,English,3.1,Intermediate,112,Regular,2,61,Poor,1,2,2,2
+17,Male,Doctor,High,Intermediate,Advanced,Physics,5.3,Intermediate,114,Regular,1,62,Very Poor,1,2,2,3
+4,Male,Engineer,Low,Beginner,Beginner,Math,1.9,Beginner,93,Irregular,1,39,Very Poor,0,1,1,1
+13,Male,Engineer,Low,Intermediate,Beginner,Art,0.7,Beginner,79,Regular,1,45,Very Poor,1,1,2,1
+12,Female,Engineer,Middle,Beginner,Beginner,Physics,1.2,Beginner,76,Irregular,2,38,Poor,0,1,1,1
+4,Male,Teacher,Low,Beginner,Beginner,History,0.9,Beginner,138,Regular,4,60,Good,1,1,1,1
+8,Male,Engineer,Middle,Intermediate,Intermediate,Geography,1.5,Intermediate,125,Irregular,3,67,Average,0,2,2,2
+4,Female,Engineer,Middle,Beginner,Beginner,Geography,1.5,Beginner,75,Irregular,5,58,Excellent,0,1,1,1
+12,Male,Government Employee,High,Beginner,Beginner,Math,2.3,Intermediate,129,Regular,3,92,Average,1,2,1,1
+4,Male,Doctor,Middle,Beginner,Beginner,English,1.9,Beginner,123,Regular,1,55,Very Poor,1,1,1,1
+9,Male,Doctor,High,Beginner,Intermediate,Physics,1.6,Intermediate,120,Regular,5,68,Excellent,1,2,1,2
+15,Female,Government Employee,Middle,Advanced,Advanced,Geography,2.4,Intermediate,76,Regular,5,61,Excellent,1,2,3,3
+10,Female,Government Employee,High,Intermediate,Intermediate,Science,2.8,Intermediate,107,Regular,3,57,Average,1,2,2,2
+14,Female,Teacher,Low,Intermediate,Advanced,Physics,1.9,Advanced,70,Regular,3,72,Average,1,3,2,3
+14,Female,Artist,Low,Advanced,Intermediate,English,0.8,Intermediate,111,Irregular,1,34,Very Poor,0,2,3,2
+17,Female,Government Employee,Middle,Intermediate,Beginner,Geography,0.8,Beginner,94,Regular,3,57,Average,1,1,2,1
+7,Male,Artist,Middle,Beginner,Beginner,Geography,0.5,Beginner,86,Irregular,2,28,Poor,0,1,1,1
+12,Male,Government Employee,Middle,Beginner,Beginner,Physics,1.1,Intermediate,118,Irregular,4,59,Good,0,2,1,1
+10,Female,Farmer,High,Intermediate,Advanced,Math,4.0,Advanced,115,Irregular,4,83,Good,0,3,2,3
+10,Female,Artist,Middle,Beginner,Beginner,Chemistry,0.6,Beginner,111,Regular,2,36,Poor,1,1,1,1
+11,Male,Other,High,Beginner,Beginner,History,2.0,Intermediate,110,Regular,3,71,Average,1,2,1,1
+8,Male,Farmer,Low,Beginner,Beginner,Math,2.0,Intermediate,130,Regular,5,81,Excellent,1,2,1,1
+17,Female,Engineer,High,Intermediate,Advanced,Art,4.6,Advanced,129,Regular,4,85,Good,1,3,2,3
+13,Male,Business Owner,Middle,Intermediate,Intermediate,History,2.4,Intermediate,69,Irregular,2,47,Poor,0,2,2,2
+7,Male,Teacher,Middle,Beginner,Beginner,Science,1.5,Beginner,85,Regular,5,63,Excellent,1,1,1,1
+12,Female,Unemployed,High,Beginner,Beginner,Math,2.4,Beginner,110,Irregular,3,65,Average,0,1,1,1
+18,Female,Unemployed,Middle,Intermediate,Intermediate,Chemistry,2.1,Advanced,106,Regular,4,78,Good,1,3,2,2
+7,Male,Government Employee,Middle,Beginner,Beginner,Geography,2.1,Beginner,132,Irregular,3,49,Average,0,1,1,1
+12,Male,Engineer,Low,Beginner,Beginner,Art,1.2,Intermediate,124,Regular,1,45,Very Poor,1,2,1,1
+18,Male,Unemployed,Low,Advanced,Advanced,Biology,2.5,Advanced,114,Regular,3,67,Average,1,3,3,3
+6,Female,Teacher,High,Beginner,Intermediate,Computer Science,1.3,Intermediate,100,Irregular,5,74,Excellent,0,2,1,2
+17,Male,Teacher,Middle,Advanced,Advanced,English,5.0,Advanced,98,Regular,5,87,Excellent,1,3,3,3
+8,Male,Engineer,Middle,Intermediate,Intermediate,Chemistry,2.7,Beginner,116,Regular,4,91,Good,1,1,2,2
+13,Male,Unemployed,Low,Beginner,Beginner,Geography,0.6,Intermediate,92,Regular,4,50,Good,1,2,1,1
+8,Female,Artist,Middle,Beginner,Beginner,Science,2.6,Intermediate,70,Regular,3,59,Average,1,2,1,1
+6,Female,Engineer,High,Beginner,Beginner,Art,1.5,Beginner,107,Irregular,5,73,Excellent,0,1,1,1
+16,Female,Doctor,Middle,Intermediate,Intermediate,Chemistry,2.0,Beginner,118,Regular,1,42,Very Poor,1,1,2,2
+7,Male,Business Owner,Low,Beginner,Beginner,Geography,1.5,Beginner,114,Regular,2,48,Poor,1,1,1,1
+16,Male,Other,High,Intermediate,Advanced,Computer Science,4.3,Advanced,127,Irregular,3,87,Average,0,3,2,3
+5,Male,Doctor,Middle,Beginner,Beginner,Biology,1.8,Intermediate,98,Regular,3,70,Average,1,2,1,1
+3,Male,Artist,High,Beginner,Beginner,History,2.7,Beginner,133,Irregular,2,62,Poor,0,1,1,1
+17,Male,Doctor,High,Intermediate,Intermediate,Chemistry,2.8,Intermediate,79,Regular,5,85,Excellent,1,2,2,2
+4,Male,Teacher,Low,Beginner,Intermediate,Biology,2.9,Intermediate,69,Irregular,3,75,Average,0,2,1,2
+8,Male,Unemployed,Low,Intermediate,Advanced,Geography,4.2,Advanced,71,Regular,2,73,Poor,1,3,2,3
+11,Female,Government Employee,Middle,Intermediate,Intermediate,Art,2.6,Beginner,86,Irregular,4,71,Good,0,1,2,2
+16,Female,Doctor,Middle,Advanced,Advanced,Science,3.6,Advanced,82,Irregular,5,80,Excellent,0,3,3,3
+12,Female,Teacher,Low,Intermediate,Advanced,Art,4.1,Intermediate,89,Irregular,5,85,Excellent,0,2,2,3
+4,Female,Teacher,Low,Beginner,Beginner,Computer Science,2.1,Beginner,115,Irregular,3,68,Average,0,1,1,1
+7,Male,Business Owner,High,Beginner,Beginner,Art,1.2,Beginner,139,Irregular,1,44,Very Poor,0,1,1,1
+7,Female,Artist,Low,Beginner,Beginner,Art,1.7,Beginner,106,Irregular,5,74,Excellent,0,1,1,1
+14,Female,Engineer,Middle,Intermediate,Intermediate,History,2.4,Intermediate,119,Irregular,2,61,Poor,0,2,2,2
+12,Male,Farmer,Middle,Intermediate,Beginner,English,0.2,Intermediate,112,Irregular,2,41,Poor,0,2,2,1
+12,Female,Business Owner,High,Intermediate,Intermediate,Art,1.4,Intermediate,125,Irregular,3,69,Average,0,2,2,2
+14,Female,Business Owner,Middle,Advanced,Advanced,History,3.2,Advanced,82,Irregular,3,75,Average,0,3,3,3
+8,Female,Doctor,High,Intermediate,Beginner,Geography,1.1,Intermediate,123,Regular,5,73,Excellent,1,2,2,1
+4,Female,Doctor,Low,Beginner,Beginner,English,1.1,Beginner,96,Irregular,5,73,Excellent,0,1,1,1
+12,Female,Government Employee,High,Beginner,Beginner,Physics,0.6,Beginner,97,Regular,2,52,Poor,1,1,1,1
+4,Female,Business Owner,Middle,Beginner,Beginner,Art,1.3,Beginner,86,Irregular,4,54,Good,0,1,1,1
+3,Female,Farmer,Low,Beginner,Beginner,History,0.9,Beginner,78,Regular,5,70,Excellent,1,1,1,1
+18,Male,Other,High,Intermediate,Intermediate,Art,1.3,Beginner,97,Regular,4,60,Good,1,1,2,2
+5,Male,Government Employee,Low,Beginner,Beginner,Science,1.2,Intermediate,100,Irregular,5,55,Excellent,0,2,1,1
+10,Female,Engineer,High,Intermediate,Advanced,Art,3.8,Advanced,107,Irregular,2,73,Poor,0,3,2,3
+5,Female,Other,Middle,Beginner,Beginner,Geography,1.9,Intermediate,133,Regular,4,67,Good,1,2,1,1
+12,Female,Engineer,Low,Intermediate,Beginner,Science,1.8,Beginner,91,Irregular,3,60,Average,0,1,2,1
+8,Male,Artist,Low,Beginner,Beginner,History,1.6,Beginner,92,Regular,2,44,Poor,1,1,1,1
+6,Female,Other,Middle,Beginner,Beginner,Physics,1.3,Beginner,117,Regular,3,66,Average,1,1,1,1
+3,Female,Government Employee,Low,Beginner,Beginner,Art,2.3,Beginner,132,Irregular,3,63,Average,0,1,1,1
+5,Female,Other,High,Beginner,Beginner,Chemistry,1.3,Beginner,77,Regular,2,31,Poor,1,1,1,1
+6,Female,Engineer,Middle,Beginner,Intermediate,Math,1.7,Intermediate,104,Regular,2,59,Poor,1,2,1,2
+12,Male,Other,Middle,Beginner,Beginner,Math,1.2,Beginner,85,Irregular,2,45,Poor,0,1,1,1
+13,Male,Engineer,Low,Intermediate,Intermediate,Science,3.0,Beginner,124,Irregular,2,75,Poor,0,1,2,2
+14,Female,Unemployed,High,Advanced,Advanced,Math,3.9,Advanced,110,Irregular,5,93,Excellent,0,3,3,3
+3,Female,Unemployed,Low,Beginner,Beginner,Computer Science,0.5,Beginner,123,Irregular,3,50,Average,0,1,1,1
+11,Female,Unemployed,Low,Beginner,Beginner,Science,2.7,Beginner,106,Regular,4,82,Good,1,1,1,1
+6,Female,Doctor,Low,Beginner,Beginner,Science,1.3,Intermediate,95,Irregular,5,58,Excellent,0,2,1,1
+5,Female,Farmer,High,Beginner,Intermediate,Chemistry,3.1,Intermediate,127,Regular,3,78,Average,1,2,1,2
+3,Female,Farmer,Middle,Beginner,Beginner,Science,1.7,Beginner,102,Regular,1,37,Very Poor,1,1,1,1
+12,Female,Other,Middle,Intermediate,Beginner,Art,1.7,Beginner,93,Regular,3,58,Average,1,1,2,1
+7,Female,Business Owner,Middle,Beginner,Beginner,English,1.8,Beginner,77,Regular,4,74,Good,1,1,1,1
+9,Female,Other,Low,Intermediate,Intermediate,History,2.5,Intermediate,71,Regular,3,84,Average,1,2,2,2
+11,Female,Unemployed,Low,Intermediate,Intermediate,History,3.5,Advanced,127,Regular,5,94,Excellent,1,3,2,2
+8,Male,Doctor,Middle,Intermediate,Intermediate,Math,3.8,Intermediate,96,Irregular,5,73,Excellent,0,2,2,2
+18,Male,Doctor,Middle,Advanced,Advanced,English,5.7,Advanced,95,Irregular,4,81,Good,0,3,3,3
+17,Female,Teacher,Middle,Intermediate,Advanced,Art,6.1,Intermediate,86,Regular,1,74,Very Poor,1,2,2,3
+16,Female,Doctor,High,Advanced,Advanced,Biology,3.4,Advanced,106,Irregular,4,80,Good,0,3,3,3
+4,Female,Business Owner,High,Beginner,Beginner,Physics,2.2,Beginner,93,Irregular,1,37,Very Poor,0,1,1,1
+6,Male,Other,Low,Beginner,Beginner,Math,2.2,Intermediate,81,Irregular,1,38,Very Poor,0,2,1,1
+14,Female,Artist,Low,Intermediate,Intermediate,Computer Science,3.0,Intermediate,103,Regular,1,66,Very Poor,1,2,2,2
+6,Male,Teacher,High,Beginner,Intermediate,Computer Science,1.5,Intermediate,95,Regular,2,69,Poor,1,2,1,2
+6,Female,Artist,Middle,Beginner,Beginner,Computer Science,1.4,Intermediate,137,Regular,4,76,Good,1,2,1,1
+9,Male,Engineer,High,Intermediate,Intermediate,Physics,4.5,Intermediate,117,Irregular,4,83,Good,0,2,2,2
+17,Female,Engineer,High,Advanced,Advanced,Art,1.3,Advanced,79,Irregular,2,53,Poor,0,3,3,3
+17,Male,Farmer,Low,Advanced,Advanced,Art,4.6,Intermediate,88,Regular,2,68,Poor,1,2,3,3
+12,Male,Farmer,Low,Beginner,Beginner,Geography,0.4,Beginner,70,Regular,1,23,Very Poor,1,1,1,1
+7,Female,Artist,Low,Beginner,Beginner,English,1.8,Intermediate,98,Regular,4,67,Good,1,2,1,1
+10,Female,Government Employee,Low,Beginner,Beginner,Science,1.5,Beginner,129,Regular,3,72,Average,1,1,1,1
+3,Male,Business Owner,High,Beginner,Beginner,Science,1.0,Beginner,70,Regular,4,46,Good,1,1,1,1
+14,Male,Unemployed,Middle,Intermediate,Beginner,Math,3.8,Beginner,80,Regular,3,70,Average,1,1,2,1
+6,Female,Other,Middle,Beginner,Beginner,Math,2.5,Beginner,83,Regular,1,43,Very Poor,1,1,1,1
+15,Male,Other,Low,Intermediate,Intermediate,Chemistry,3.4,Beginner,99,Regular,4,77,Good,1,1,2,2
+16,Male,Unemployed,Middle,Advanced,Advanced,Math,3.5,Advanced,134,Irregular,4,100,Good,0,3,3,3
+13,Male,Unemployed,Middle,Intermediate,Intermediate,English,1.8,Intermediate,66,Regular,2,43,Poor,1,2,2,2
+7,Female,Doctor,Low,Beginner,Beginner,English,2.0,Beginner,68,Irregular,1,19,Very Poor,0,1,1,1
+5,Male,Government Employee,Low,Beginner,Beginner,Science,1.8,Intermediate,85,Irregular,1,40,Very Poor,0,2,1,1
+14,Male,Other,Middle,Intermediate,Intermediate,Science,4.5,Intermediate,100,Irregular,5,83,Excellent,0,2,2,2
+4,Female,Business Owner,Middle,Beginner,Beginner,Chemistry,2.3,Beginner,85,Irregular,3,51,Average,0,1,1,1
+13,Female,Farmer,High,Beginner,Beginner,Computer Science,1.2,Intermediate,65,Irregular,2,34,Poor,0,2,1,1
+3,Male,Government Employee,High,Beginner,Beginner,Computer Science,2.6,Beginner,76,Regular,3,54,Average,1,1,1,1
+4,Female,Teacher,Middle,Beginner,Intermediate,History,1.4,Beginner,116,Irregular,1,46,Very Poor,0,1,1,2
+13,Male,Teacher,Middle,Beginner,Beginner,Biology,1.7,Intermediate,100,Irregular,3,58,Average,0,2,1,1
+13,Male,Other,Middle,Intermediate,Intermediate,Math,2.5,Advanced,102,Irregular,4,73,Good,0,3,2,2
+14,Female,Other,High,Advanced,Advanced,Math,2.6,Advanced,114,Regular,5,100,Excellent,1,3,3,3
+4,Female,Doctor,Middle,Beginner,Beginner,Chemistry,2.8,Beginner,103,Regular,4,78,Good,1,1,1,1
+11,Female,Government Employee,Middle,Intermediate,Intermediate,History,3.0,Beginner,103,Regular,5,86,Excellent,1,1,2,2
+9,Male,Artist,Middle,Beginner,Beginner,Chemistry,0.9,Intermediate,72,Regular,4,59,Good,1,2,1,1
+8,Male,Engineer,High,Beginner,Beginner,Geography,2.1,Intermediate,124,Irregular,3,56,Average,0,2,1,1
+17,Male,Doctor,Middle,Intermediate,Intermediate,English,1.5,Beginner,69,Irregular,4,68,Good,0,1,2,2
+16,Male,Teacher,High,Intermediate,Intermediate,Science,0.4,Beginner,74,Regular,3,49,Average,1,1,2,2
+15,Male,Business Owner,Low,Intermediate,Intermediate,Geography,3.6,Intermediate,119,Irregular,5,83,Excellent,0,2,2,2
+7,Male,Artist,Middle,Beginner,Intermediate,Art,1.9,Advanced,133,Regular,5,80,Excellent,1,3,1,2
+16,Female,Farmer,Low,Intermediate,Advanced,English,3.4,Advanced,120,Regular,4,77,Good,1,3,2,3
+6,Female,Teacher,High,Beginner,Intermediate,Chemistry,1.8,Intermediate,101,Irregular,3,62,Average,0,2,1,2
+15,Female,Engineer,Middle,Intermediate,Intermediate,Chemistry,2.9,Intermediate,84,Regular,5,86,Excellent,1,2,2,2
+13,Female,Artist,High,Intermediate,Beginner,English,2.6,Beginner,79,Irregular,1,53,Very Poor,0,1,2,1
+5,Female,Artist,High,Beginner,Beginner,English,1.2,Beginner,111,Irregular,2,65,Poor,0,1,1,1
+8,Female,Government Employee,Low,Beginner,Beginner,Math,2.4,Intermediate,120,Irregular,1,54,Very Poor,0,2,1,1
+3,Male,Artist,Middle,Beginner,Beginner,Geography,1.2,Beginner,83,Irregular,3,49,Average,0,1,1,1
+15,Female,Teacher,Middle,Intermediate,Intermediate,History,2.5,Intermediate,79,Irregular,2,37,Poor,0,2,2,2
+4,Female,Other,Low,Beginner,Beginner,Chemistry,1.6,Intermediate,71,Irregular,3,49,Average,0,2,1,1
+15,Male,Other,High,Intermediate,Beginner,Science,1.8,Beginner,70,Irregular,5,60,Excellent,0,1,2,1
+11,Male,Other,High,Intermediate,Intermediate,Biology,2.9,Advanced,135,Regular,4,96,Good,1,3,2,2
+11,Female,Engineer,Middle,Beginner,Beginner,Science,0.9,Intermediate,103,Regular,4,62,Good,1,2,1,1
+14,Female,Unemployed,Low,Intermediate,Intermediate,Science,2.9,Intermediate,105,Regular,5,77,Excellent,1,2,2,2
+11,Female,Artist,Low,Intermediate,Advanced,Art,3.9,Advanced,104,Regular,1,68,Very Poor,1,3,2,3
+7,Female,Unemployed,Low,Beginner,Beginner,Physics,1.5,Intermediate,113,Regular,4,67,Good,1,2,1,1
+11,Male,Artist,High,Intermediate,Intermediate,History,3.3,Beginner,130,Regular,5,95,Excellent,1,1,2,2
+5,Female,Farmer,High,Beginner,Intermediate,English,1.3,Advanced,82,Regular,3,68,Average,1,3,1,2
+18,Female,Farmer,Low,Intermediate,Intermediate,Art,6.4,Intermediate,98,Irregular,3,52,Average,0,2,2,2
+11,Male,Teacher,High,Intermediate,Intermediate,Chemistry,7.3,Intermediate,87,Irregular,4,43,Good,0,2,2,2
+16,Female,Teacher,Middle,Beginner,Beginner,Physics,4.1,Advanced,84,Regular,4,90,Very Poor,1,3,1,1
+18,Female,Artist,Low,Beginner,Beginner,Art,3.8,Intermediate,122,Regular,4,97,Excellent,1,2,1,1
+11,Female,Government Employee,Middle,Beginner,Intermediate,Computer Science,2.8,Beginner,135,Irregular,2,72,Good,0,1,1,2
+7,Male,Unemployed,Middle,Beginner,Beginner,Computer Science,0.5,Beginner,129,Regular,1,95,Very Poor,1,1,1,1
+15,Female,Doctor,High,Advanced,Advanced,Math,2.1,Advanced,144,Irregular,1,75,Good,0,3,3,3
+11,Male,Teacher,Low,Beginner,Advanced,Math,2.2,Advanced,124,Irregular,4,91,Good,0,3,1,3
+7,Female,Artist,Low,Beginner,Beginner,Computer Science,1.7,Beginner,81,Regular,4,80,Excellent,1,1,1,1
+9,Male,Doctor,Middle,Beginner,Beginner,History,0.5,Beginner,74,Regular,4,67,Excellent,1,1,1,1
+8,Male,Unemployed,Low,Intermediate,Advanced,Math,0.3,Advanced,123,Regular,1,89,Very Poor,1,3,2,3
+8,Male,Other,Middle,Beginner,Beginner,Geography,0.7,Intermediate,150,Irregular,2,64,Excellent,0,2,1,1
+9,Female,Artist,High,Intermediate,Beginner,Geography,2.0,Beginner,148,Irregular,1,86,Average,0,1,2,1
+13,Female,Business Owner,High,Beginner,Beginner,Biology,1.9,Intermediate,136,Irregular,1,67,Very Poor,0,2,1,1
+17,Male,Unemployed,High,Advanced,Beginner,Computer Science,2.9,Beginner,99,Regular,4,82,Good,1,1,3,1
+15,Male,Engineer,Middle,Intermediate,Beginner,Biology,0.1,Beginner,130,Regular,5,86,Excellent,1,1,2,1
+10,Male,Other,High,Beginner,Beginner,Art,1.2,Intermediate,120,Regular,5,88,Excellent,1,2,1,1
+4,Male,Farmer,Middle,Beginner,Beginner,Biology,0.5,Beginner,98,Regular,5,92,Poor,1,1,1,1
+10,Female,Farmer,Low,Beginner,Beginner,Science,1.0,Beginner,75,Regular,4,47,Poor,1,1,1,1
+6,Male,Unemployed,High,Beginner,Advanced,History,0.9,Advanced,127,Irregular,4,72,Good,0,3,1,3
