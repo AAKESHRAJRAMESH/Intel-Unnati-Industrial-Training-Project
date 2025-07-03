@@ -12,8 +12,7 @@ This project aims to predict the assessment score and the material level for the
 
 ## Key Features
 
-- XGBoost classifier for material level prediction.
-- Prediction of student assessment scores.
+- XGBoost classifier for prediction.
 - Synthetic dataset representing different student profiles.
 
 ## Technologies Used
