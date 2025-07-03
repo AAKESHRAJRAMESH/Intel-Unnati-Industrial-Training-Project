@@ -1,25 +1,22 @@
 # AI-Powered Personalized Tutor System
 
-## 📚 Project Overview
+## Project Overview
 
-The AI-Powered Personalized Tutor System is designed to enhance K-12 virtual education by providing customized learning experiences based on student-specific data. This intelligent system uses machine learning techniques to adapt content delivery according to individual cognitive abilities, learning behaviors, and performance metrics.
+This project aims to predict the assessment score and the material level for the students using their daily routine as features.
 
-## 🎯 Objectives
+## Objectives
 
-- Deliver personalized educational content for K-12 students.
-- Predict suitable matrial levels using student data.
-- Forecast student assessment outcomes for informed academic planning.
 - Simulate a diverse student dataset for model training and evaluation.
+- Predict assessment score of the student.
+- Predict suitable matrial levels using student data.
 
-## 🧠 Key Features
+## Key Features
 
-- XGBoost classifier for content level prediction.
+- XGBoost classifier for material level prediction.
 - Prediction of student assessment scores.
-- Feature engineering to reflect learning pace and cognitive level.
-- Synthetic dataset representing varied student profiles.
-- Scalable and adaptable architecture for integration with LMS platforms.
+- Synthetic dataset representing different student profiles.
 
-## 🧪 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas, NumPy
@@ -27,9 +24,11 @@ The AI-Powered Personalized Tutor System is designed to enhance K-12 virtual edu
 - XGBoost
 - Matplotlib / Seaborn (for data visualization)
 
+## How to run the project
 
-## 🧪 How to use
+- Clone the project.
+- Install necessary python packages using pip install command.
+- Run the dataset creating python file, to create dataset.
+- Then run the prediction file to train, test, evaluate.
+- Then give inputs to predict.
 
-- Seperate code for dataset creation and output prediction is provided
-- Clone the code and install the necessary modules using pip install command
-- Finally run the code
