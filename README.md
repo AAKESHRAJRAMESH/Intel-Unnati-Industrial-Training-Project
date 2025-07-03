@@ -31,4 +31,4 @@ This project aims to predict the assessment score and the material level for the
 - Run the dataset creating python file, to create dataset.
 - Then run the prediction file to train, test, evaluate.
 - Then give inputs to predict.
-
+- Sample datasets are also present in the project folder.
